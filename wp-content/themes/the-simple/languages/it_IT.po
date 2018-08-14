@@ -1,0 +1,4778 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-25 16:13+0200\n"
+"PO-Revision-Date: 2017-04-25 16:13+0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: it_IT\n"
+
+#: admin/core/enqueue.php:453
+#: admin/extensions/customizer/extension_customizer.php:530
+#: admin/inc/extensions/customizer/extension_customizer.php:687
+msgid "You have changes that are not saved. Would you like to save them now?"
+msgstr ""
+
+#: admin/core/enqueue.php:461
+#: admin/extensions/customizer/extension_customizer.php:531
+#: admin/inc/extensions/customizer/extension_customizer.php:688
+msgid "Are you sure? Resetting will lose all custom values."
+msgstr ""
+
+#: admin/core/enqueue.php:469
+msgid "Are you sure? Resetting will lose all custom values in this section."
+msgstr ""
+
+#: admin/core/enqueue.php:477
+#: admin/extensions/customizer/extension_customizer.php:532
+#: admin/inc/extensions/customizer/extension_customizer.php:689
+msgid ""
+"Your current options will be replaced with the values of this preset. Would "
+"you like to proceed?"
+msgstr ""
+
+#: admin/core/enqueue.php:484
+msgid "Please Wait"
+msgstr ""
+
+#: admin/core/enqueue.php:495
+msgid "There was an error saving. Here is the result of your action:"
+msgstr ""
+
+#: admin/core/enqueue.php:496
+msgid ""
+"There was a problem with your action. Please try again or reload the page."
+msgstr ""
+
+#: admin/core/panel.php:65
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr ""
+
+#: admin/core/panel.php:141
+#: admin/loader/extensions/metaboxes/extension_metaboxes.php:1086
+msgid "Settings Imported!"
+msgstr ""
+
+#: admin/core/panel.php:156
+msgid "All Defaults Restored!"
+msgstr ""
+
+#: admin/core/panel.php:170
+msgid "Section Defaults Restored!"
+msgstr ""
+
+#: admin/core/panel.php:184
+msgid "Settings Saved!"
+msgstr ""
+
+#: admin/core/panel.php:204
+#: admin/loader/extensions/metaboxes/extension_metaboxes.php:1089
+msgid "Settings have changed, you should save them!"
+msgstr ""
+
+#: admin/core/panel.php:212
+#: admin/loader/extensions/metaboxes/extension_metaboxes.php:1093
+#: admin/loader/extensions/metaboxes/extension_metaboxes.php:1382
+msgid "error(s) were found!"
+msgstr ""
+
+#: admin/core/panel.php:220
+#: admin/loader/extensions/metaboxes/extension_metaboxes.php:1096
+msgid "warning(s) were found!"
+msgstr ""
+
+#: admin/core/panel.php:312
+msgid ""
+"<strong>Your panel has bundled outdated copies of Redux Framework template "
+"files</strong> &#8211; if you encounter functionality issues this could be "
+"the reason. Ensure you update or remove them."
+msgstr ""
+
+#: admin/extensions/customizer/extension_customizer.php:565
+#: admin/inc/extensions/customizer/extension_customizer.php:722
+msgid "You have changes that are not saved.  Would you like to save them now?"
+msgstr ""
+
+#: admin/extensions/customizer/extension_customizer.php:566
+#: admin/inc/extensions/customizer/extension_customizer.php:723
+msgid "Are you sure?  Resetting will lose all custom values."
+msgstr ""
+
+#: admin/extensions/customizer/extension_customizer.php:567
+#: admin/inc/extensions/customizer/extension_customizer.php:724
+msgid ""
+"Your current options will be replaced with the values of this preset.  Would "
+"you like to proceed?"
+msgstr ""
+
+#: admin/framework.php:228
+#, php-format
+msgid "Options panel created using %1$s"
+msgstr ""
+
+#: admin/framework.php:228
+msgid "Redux Framework"
+msgstr ""
+
+#: admin/framework.php:232 admin/framework.php:236
+#: admin/loader/extensions/metaboxes/extension_metaboxes.php:933
+msgid "Options"
+msgstr ""
+
+#: admin/framework.php:1759
+msgid "Enable"
+msgstr ""
+
+#: admin/framework.php:1764
+msgid "Disable"
+msgstr ""
+
+#: admin/framework.php:1770
+msgid "moving the mouse over"
+msgstr ""
+
+#: admin/framework.php:1772
+msgid "clicking"
+msgstr ""
+
+#: admin/framework.php:1776
+#, php-format
+msgid ""
+"Hints are tooltips that popup when %d the hint icon, offering addition "
+"information about the field in which they appear.  They can be %d d by using "
+"the link below."
+msgstr ""
+
+#: admin/framework.php:1781
+msgid "Hints"
+msgstr ""
+
+#: admin/framework.php:1908
+msgid "Default"
+msgstr ""
+
+#: admin/framework.php:2788
+msgid "Invalid security credential.  Please reload the page and try again."
+msgstr ""
+
+#: admin/framework.php:2797
+msgid "Invalid user capability.  Please reload the page and try again."
+msgstr ""
+
+#: admin/framework.php:2873
+msgid "Your panel has no fields. Nothing to save."
+msgstr ""
+
+#: admin/framework.php:3966
+msgid ""
+"<strong>Redux Framework Notice: </strong>There are references to the Redux "
+"Framework support site in your config's <code>admin_bar_links</code> "
+"argument.  This is sample data.  Please change or remove this data before "
+"shipping your product."
+msgstr ""
+
+#: admin/framework.php:3981
+msgid ""
+"<strong>Redux Framework Notice: </strong>There are references to the Redux "
+"Framework support site in your config's <code>share_icons</code> argument.  "
+"This is sample data.  Please change or remove this data before shipping your "
+"product."
+msgstr ""
+
+#: admin/inc/class.redux_cdn.php:74
+msgid ""
+"Please wait a few minutes, then try refreshing the page. Unable to load some "
+"remotely hosted scripts."
+msgstr ""
+
+#: admin/inc/class.redux_cdn.php:76
+#, php-format
+msgid ""
+"If you are developing offline, please download and install the <a href=\"%s"
+"\" target=\"_blank\">Redux Vendor Support</a> plugin/extension to bypass the "
+"our CDN and avoid this warning"
+msgstr ""
+
+#: admin/inc/class.redux_cdn.php:81
+msgid "Redux Framework Warning"
+msgstr ""
+
+#: admin/inc/class.redux_cdn.php:81
+#, php-format
+msgid "%s CDN unavailable.  Some controls may not render properly."
+msgstr ""
+
+#: admin/inc/class.redux_cdn.php:113
+#, php-format
+msgid ""
+"The <a href=\"%s\">Vendor Support plugin</a> (or extension) is either not "
+"installed or not activated and thus, some controls may not render properly.  "
+"Please ensure that it is installed and <a href=\"%s\">activated</a>"
+msgstr ""
+
+#: admin/inc/class.redux_filesystem.php:31
+#: admin/inc/class.redux_filesystem.php:60
+#: admin/inc/class.redux_filesystem.php:271
+msgid "File Permission Issues"
+msgstr ""
+
+#: admin/inc/class.redux_filesystem.php:31
+#, php-format
+msgid ""
+"We were unable to modify required files. Please check your permissions, or "
+"modify your wp-config.php file to contain your FTP login credentials as <a "
+"href=\"%s\" target=\"_blank\">outlined here</a>."
+msgstr ""
+
+#: admin/inc/class.redux_filesystem.php:60
+#: admin/inc/class.redux_filesystem.php:271
+#, php-format
+msgid ""
+"We were unable to modify required files. Please ensure that <code>%1s</code> "
+"has the proper read-write permissions, or modify your wp-config.php file to "
+"contain your FTP login credentials as <a href=\"%2s\" target=\"_blank"
+"\">outlined here</a>."
+msgstr ""
+
+#: admin/inc/class.redux_helpers.php:610
+#, php-format
+msgid ""
+"<code>%s</code> version <strong style=\"color:red\">%s</strong> is out of "
+"date. The core version is %s"
+msgstr ""
+
+#: admin/inc/class.redux_themecheck.php:61
+#, php-format
+msgid ""
+"The theme you are testing has %s embedded. We invite you to read the %sTheme-"
+"Check Documentation%s to understand some warnings you will see because of "
+"Redux."
+msgstr ""
+
+#: admin/inc/class.redux_themecheck.php:109
+msgid ""
+"The following directories & files are still located in your <strong>Redux</"
+"strong>  directory. They may cause errors in Theme-Check."
+msgstr ""
+
+#: admin/inc/debug.php:41 admin/inc/debug.php:69 admin/inc/debug.php:76
+#: admin/inc/debug.php:77
+#: admin/inc/extensions/options_object/extension_options_object.php:82
+msgid "Options Object"
+msgstr ""
+
+#: admin/inc/debug.php:54
+msgid "Show Object in Javascript Console Object"
+msgstr ""
+
+#: admin/inc/extensions/customizer/inc/customizer_panel.php:114
+#: admin/inc/extensions/customizer/inc/customizer_panel.php:142
+#, php-format
+msgid "You are customizing %s"
+msgstr ""
+
+#: admin/inc/extensions/customizer/inc/customizer_section.php:72
+msgid "Press return or enter to open"
+msgstr ""
+
+#: admin/inc/extensions/customizer/inc/customizer_section.php:79
+msgid "Back"
+msgstr ""
+
+#: admin/inc/extensions/import_export/extension_import_export.php:120
+#: admin/inc/fields/import_export/import_export.php:149
+#: admin/inc/fields/import_export/import_export.php:158
+#: admin/inc/fields/import_export/import_export.php:159
+#: admin/inc/import_export.php:140 admin/inc/import_export.php:149
+#: admin/inc/import_export.php:150
+msgid "Import / Export"
+msgstr ""
+
+#: admin/inc/extensions/import_export/import_export/field_import_export.php:104
+#: admin/inc/fields/import_export/import_export.php:85
+#: admin/inc/import_export.php:85
+msgid ""
+"Input your backup file below and hit Import to restore your sites options "
+"from a backup."
+msgstr ""
+
+#: admin/inc/extensions/import_export/import_export/field_import_export.php:111
+#: admin/inc/fields/import_export/import_export.php:93
+#: admin/inc/import_export.php:90
+msgid ""
+"Input the URL to another sites options set and hit Import to load the "
+"options from that site."
+msgstr ""
+
+#: admin/inc/extensions/import_export/import_export/field_import_export.php:116
+#: admin/inc/fields/codeless_import/codeless_import.php:103
+#: admin/inc/fields/import_export/import_export.php:99
+#: admin/inc/fields/simple_import/simple_import.php:103
+#: admin/inc/import_export.php:94
+msgid ""
+"WARNING! This will overwrite all existing option values, please proceed with "
+"caution!"
+msgstr ""
+
+#: admin/inc/extensions/import_export/import_export/field_import_export.php:124
+#: admin/inc/fields/import_export/import_export.php:105
+#: admin/inc/import_export.php:100
+msgid ""
+"Here you can copy/download your current option settings. Keep this safe as "
+"you can use it as a backup should anything go wrong, or you can use it to "
+"restore your settings on this site (or any other site)."
+msgstr ""
+
+#: admin/inc/fields/background/field_background.php:124
+#: admin/inc/fields/color/field_color.php:73
+#: admin/inc/fields/color_gradient/field_color_gradient.php:79
+#: admin/inc/fields/color_gradient/field_color_gradient.php:91
+msgid "Transparent"
+msgstr ""
+
+#: admin/inc/fields/background/field_background.php:141
+msgid "Background Repeat"
+msgstr ""
+
+#: admin/inc/fields/background/field_background.php:157
+msgid "Background Clip"
+msgstr ""
+
+#: admin/inc/fields/background/field_background.php:173
+msgid "Background Origin"
+msgstr ""
+
+#: admin/inc/fields/background/field_background.php:188
+msgid "Background Size"
+msgstr ""
+
+#: admin/inc/fields/background/field_background.php:203
+msgid "Background Attachment"
+msgstr ""
+
+#: admin/inc/fields/background/field_background.php:223
+msgid "Background Position"
+msgstr ""
+
+#: admin/inc/fields/background/field_background.php:277
+#: admin/inc/fields/media/field_media.php:149
+msgid "No media selected"
+msgstr ""
+
+#: admin/inc/fields/background/field_background.php:314
+#: admin/inc/fields/media/field_media.php:198
+#: admin/inc/fields/slides/field_slides.php:126
+#: admin/inc/fields/slides/field_slides.php:188
+msgid "Upload"
+msgstr ""
+
+#: admin/inc/fields/background/field_background.php:321
+#: admin/inc/fields/media/field_media.php:205
+#: admin/inc/fields/multi_text/field_multi_text.php:69
+#: admin/inc/fields/multi_text/field_multi_text.php:73
+#: admin/inc/fields/multi_text/field_multi_text.php:76
+#: admin/inc/fields/slides/field_slides.php:133
+#: admin/inc/fields/slides/field_slides.php:190
+#: includes/core/simple_megamenu.php:738
+msgid "Remove"
+msgstr ""
+
+#: admin/inc/fields/border/field_border.php:125
+#: admin/inc/fields/spacing/field_spacing.php:191
+msgid "All"
+msgstr ""
+
+#: admin/inc/fields/border/field_border.php:138
+#: admin/inc/fields/spacing/field_spacing.php:215
+msgid "Top"
+msgstr ""
+
+#: admin/inc/fields/border/field_border.php:145
+#: admin/inc/fields/spacing/field_spacing.php:222
+msgid "Right"
+msgstr ""
+
+#: admin/inc/fields/border/field_border.php:152
+#: admin/inc/fields/spacing/field_spacing.php:229
+msgid "Bottom"
+msgstr ""
+
+#: admin/inc/fields/border/field_border.php:159
+#: admin/inc/fields/spacing/field_spacing.php:236
+msgid "Left"
+msgstr ""
+
+#: admin/inc/fields/border/field_border.php:174
+msgid "Border style"
+msgstr ""
+
+#: admin/inc/fields/codeless_import/class.wordpress-importer.php:134
+#: admin/inc/fields/codeless_import/class.wordpress-importer.php:143
+#: admin/inc/fields/codeless_import/class.wordpress-importer.php:194
+#: admin/inc/fields/codeless_import/class.wordpress-importer.php:198
+#: admin/inc/fields/codeless_import/class.wordpress-importer.php:207
+#: admin/inc/fields/simple_import/class.wordpress-importer.php:134
+#: admin/inc/fields/simple_import/class.wordpress-importer.php:143
+#: admin/inc/fields/simple_import/class.wordpress-importer.php:194
+#: admin/inc/fields/simple_import/class.wordpress-importer.php:198
+#: admin/inc/fields/simple_import/class.wordpress-importer.php:207
+#: envato_setup/importer/wordpress-importer.php:134
+#: envato_setup/importer/wordpress-importer.php:143
+#: envato_setup/importer/wordpress-importer.php:194
+#: envato_setup/importer/wordpress-importer.php:198
+#: envato_setup/importer/wordpress-importer.php:207
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: admin/inc/fields/codeless_import/class.wordpress-importer.php:135
+#: admin/inc/fields/simple_import/class.wordpress-importer.php:135
+#: envato_setup/importer/wordpress-importer.php:135
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: admin/inc/fields/codeless_import/class.wordpress-importer.php:178
+#: admin/inc/fields/simple_import/class.wordpress-importer.php:178
+#: envato_setup/importer/wordpress-importer.php:178
+msgid "All done."
+msgstr ""
+
+#: admin/inc/fields/codeless_import/class.wordpress-importer.php:178
+#: admin/inc/fields/simple_import/class.wordpress-importer.php:178
+#: envato_setup/importer/wordpress-importer.php:178
+msgid "Have fun!"
+msgstr ""
+
+#: admin/inc/fields/codeless_import/class.wordpress-importer.php:179
+#: admin/inc/fields/simple_import/class.wordpress-importer.php:179
+#: envato_setup/importer/wordpress-importer.php:179
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: admin/inc/fields/codeless_import/class.wordpress-importer.php:199
+#: admin/inc/fields/simple_import/class.wordpress-importer.php:199
+#: envato_setup/importer/wordpress-importer.php:199
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: admin/inc/fields/codeless_import/class.wordpress-importer.php:215
+#: admin/inc/fields/simple_import/class.wordpress-importer.php:215
+#: envato_setup/importer/wordpress-importer.php:215
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: admin/inc/fields/codeless_import/class.wordpress-importer.php:240
+#: admin/inc/fields/simple_import/class.wordpress-importer.php:240
+#: envato_setup/importer/wordpress-importer.php:240
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: admin/inc/fields/codeless_import/class.wordpress-importer.php:266
+#: admin/inc/fields/simple_import/class.wordpress-importer.php:266
+#: envato_setup/importer/wordpress-importer.php:266
+msgid "Assign Authors"
+msgstr ""
+
+#: admin/inc/fields/codeless_import/class.wordpress-importer.php:267
+#: admin/inc/fields/simple_import/class.wordpress-importer.php:267
+#: envato_setup/importer/wordpress-importer.php:267
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: admin/inc/fields/codeless_import/class.wordpress-importer.php:269
+#: admin/inc/fields/simple_import/class.wordpress-importer.php:269
+#: envato_setup/importer/wordpress-importer.php:269
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: admin/inc/fields/codeless_import/class.wordpress-importer.php:279
+#: admin/inc/fields/simple_import/class.wordpress-importer.php:279
+#: envato_setup/importer/wordpress-importer.php:279
+msgid "Import Attachments"
+msgstr ""
+
+#: admin/inc/fields/codeless_import/class.wordpress-importer.php:282
+#: admin/inc/fields/simple_import/class.wordpress-importer.php:282
+#: envato_setup/importer/wordpress-importer.php:282
+msgid "Download and import file attachments"
+msgstr ""
+
+#: admin/inc/fields/codeless_import/class.wordpress-importer.php:299
+#: admin/inc/fields/simple_import/class.wordpress-importer.php:299
+#: envato_setup/importer/wordpress-importer.php:299
+msgid "Import author:"
+msgstr ""
+
+#: admin/inc/fields/codeless_import/class.wordpress-importer.php:310
+#: admin/inc/fields/simple_import/class.wordpress-importer.php:310
+#: envato_setup/importer/wordpress-importer.php:310
+msgid "or create new user with login name:"
+msgstr ""
+
+#: admin/inc/fields/codeless_import/class.wordpress-importer.php:313
+#: admin/inc/fields/simple_import/class.wordpress-importer.php:313
+#: envato_setup/importer/wordpress-importer.php:313
+msgid "as a new user:"
+msgstr ""
+
+#: admin/inc/fields/codeless_import/class.wordpress-importer.php:321
+#: admin/inc/fields/simple_import/class.wordpress-importer.php:321
+#: envato_setup/importer/wordpress-importer.php:321
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: admin/inc/fields/codeless_import/class.wordpress-importer.php:323
+#: admin/inc/fields/simple_import/class.wordpress-importer.php:323
+#: envato_setup/importer/wordpress-importer.php:323
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: admin/inc/fields/codeless_import/class.wordpress-importer.php:324
+#: admin/inc/fields/simple_import/class.wordpress-importer.php:324
+#: envato_setup/importer/wordpress-importer.php:324
+msgid "- Select -"
+msgstr ""
+
+#: admin/inc/fields/codeless_import/class.wordpress-importer.php:374
+#: admin/inc/fields/simple_import/class.wordpress-importer.php:374
+#: envato_setup/importer/wordpress-importer.php:374
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: admin/inc/fields/codeless_import/class.wordpress-importer.php:425
+#: admin/inc/fields/simple_import/class.wordpress-importer.php:425
+#: envato_setup/importer/wordpress-importer.php:425
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: admin/inc/fields/codeless_import/class.wordpress-importer.php:465
+#: admin/inc/fields/simple_import/class.wordpress-importer.php:465
+#: envato_setup/importer/wordpress-importer.php:465
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: admin/inc/fields/codeless_import/class.wordpress-importer.php:511
+#: admin/inc/fields/codeless_import/class.wordpress-importer.php:652
+#: admin/inc/fields/simple_import/class.wordpress-importer.php:511
+#: admin/inc/fields/simple_import/class.wordpress-importer.php:652
+#: envato_setup/importer/wordpress-importer.php:511
+#: envato_setup/importer/wordpress-importer.php:652
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: admin/inc/fields/codeless_import/class.wordpress-importer.php:537
+#: admin/inc/fields/simple_import/class.wordpress-importer.php:537
+#: envato_setup/importer/wordpress-importer.php:537
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: admin/inc/fields/codeless_import/class.wordpress-importer.php:559
+#: admin/inc/fields/simple_import/class.wordpress-importer.php:559
+#: envato_setup/importer/wordpress-importer.php:559
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: admin/inc/fields/codeless_import/class.wordpress-importer.php:618
+#: admin/inc/fields/simple_import/class.wordpress-importer.php:618
+#: envato_setup/importer/wordpress-importer.php:618
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: admin/inc/fields/codeless_import/class.wordpress-importer.php:783
+#: admin/inc/fields/simple_import/class.wordpress-importer.php:783
+#: envato_setup/importer/wordpress-importer.php:783
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: admin/inc/fields/codeless_import/class.wordpress-importer.php:790
+#: admin/inc/fields/simple_import/class.wordpress-importer.php:790
+#: envato_setup/importer/wordpress-importer.php:790
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: admin/inc/fields/codeless_import/class.wordpress-importer.php:856
+#: admin/inc/fields/simple_import/class.wordpress-importer.php:856
+#: envato_setup/importer/wordpress-importer.php:853
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: admin/inc/fields/codeless_import/class.wordpress-importer.php:869
+#: admin/inc/fields/simple_import/class.wordpress-importer.php:869
+#: envato_setup/importer/wordpress-importer.php:866
+msgid "Invalid file type"
+msgstr ""
+
+#: admin/inc/fields/codeless_import/class.wordpress-importer.php:923
+#: admin/inc/fields/simple_import/class.wordpress-importer.php:923
+#: envato_setup/importer/wordpress-importer.php:920
+#, php-format
+msgid "Remote server returned %1$d %2$s for %3$s"
+msgstr ""
+
+#: admin/inc/fields/codeless_import/class.wordpress-importer.php:934
+#: admin/inc/fields/simple_import/class.wordpress-importer.php:934
+#: envato_setup/envato_setup.php:1769
+#: envato_setup/importer/wordpress-importer.php:931
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: admin/inc/fields/codeless_import/class.wordpress-importer.php:938
+#: admin/inc/fields/simple_import/class.wordpress-importer.php:938
+#: envato_setup/envato_setup.php:1775
+#: envato_setup/importer/wordpress-importer.php:935
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: admin/inc/fields/codeless_import/class.wordpress-importer.php:943
+#: admin/inc/fields/simple_import/class.wordpress-importer.php:943
+#: envato_setup/envato_setup.php:1781
+#: envato_setup/importer/wordpress-importer.php:940
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: admin/inc/fields/codeless_import/class.wordpress-importer.php:1038
+#: admin/inc/fields/simple_import/class.wordpress-importer.php:1038
+#: envato_setup/importer/wordpress-importer.php:1032
+msgid "Import WordPress"
+msgstr ""
+
+#: admin/inc/fields/codeless_import/class.wordpress-importer.php:1045
+#: admin/inc/fields/simple_import/class.wordpress-importer.php:1045
+#: envato_setup/importer/wordpress-importer.php:1039
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: admin/inc/fields/codeless_import/class.wordpress-importer.php:1060
+#: admin/inc/fields/simple_import/class.wordpress-importer.php:1060
+#: envato_setup/importer/wordpress-importer.php:1054
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: admin/inc/fields/codeless_import/class.wordpress-importer.php:1061
+#: admin/inc/fields/simple_import/class.wordpress-importer.php:1061
+#: envato_setup/importer/wordpress-importer.php:1055
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: admin/inc/fields/codeless_import/codeless_import.php:49
+#: admin/inc/fields/import_export/import_export.php:80
+#: admin/inc/fields/simple_import/simple_import.php:49
+#: admin/inc/import_export.php:81
+msgid "Import Options"
+msgstr ""
+
+#: admin/inc/fields/codeless_import/codeless_import.php:51
+#: admin/inc/fields/simple_import/simple_import.php:51
+msgid ""
+"You can import all demo data or only a piece of that. Select one from demo "
+"data or select a backup to import"
+msgstr ""
+
+#: admin/inc/fields/codeless_import/codeless_import.php:59
+#: admin/inc/fields/simple_import/simple_import.php:59
+msgid "Check to import attachments"
+msgstr ""
+
+#: admin/inc/fields/codeless_import/codeless_import.php:110
+#: admin/inc/fields/import_export/import_export.php:102
+#: admin/inc/fields/simple_import/simple_import.php:110
+#: admin/inc/import_export.php:97
+msgid "Export Options"
+msgstr ""
+
+#: admin/inc/fields/codeless_import/codeless_import.php:112
+msgid ""
+"Here you can download your current site data. Keep this safe as you can use "
+"it as a backup should anything go wrong, or you can use it to restore your "
+"settings on this site (or any other site). You can send your dummy data to "
+"ELLEthemes Team too if you want to share with the community"
+msgstr ""
+
+#: admin/inc/fields/codeless_import/codeless_import.php:123
+#: admin/inc/fields/simple_import/simple_import.php:123
+msgid "Save as backup"
+msgstr ""
+
+#: admin/inc/fields/codeless_import/codeless_import.php:123
+#: admin/inc/fields/simple_import/simple_import.php:123
+msgid "Send to community"
+msgstr ""
+
+#: admin/inc/fields/codeless_import/import_export.php:20
+#: admin/inc/fields/simple_import/import_export.php:20
+msgid "Can't write file"
+msgstr ""
+
+#: admin/inc/fields/codeless_import/import_export.php:35
+#: admin/inc/fields/simple_import/import_export.php:35
+#: envato_setup/envato_setup.php:2096
+msgid "File doesn't exist"
+msgstr ""
+
+#: admin/inc/fields/codeless_import/import_export.php:113
+#: admin/inc/fields/simple_import/import_export.php:114
+#: envato_setup/envato_setup.php:2045
+msgid "Error during Import. Try Again"
+msgstr ""
+
+#: admin/inc/fields/codeless_import/import_export.php:121
+#: admin/inc/fields/simple_import/import_export.php:122
+#: envato_setup/envato_setup.php:2050
+msgid "Content has been imported successfully "
+msgstr ""
+
+#: admin/inc/fields/codeless_import/import_export.php:130
+#: admin/inc/fields/simple_import/import_export.php:131
+#: envato_setup/envato_setup.php:2056
+msgid "Error loading importer. Try again or contact support"
+msgstr ""
+
+#: admin/inc/fields/codeless_import/import_export.php:246
+#: admin/inc/fields/simple_import/import_export.php:247
+msgid "Content exported successfully"
+msgstr ""
+
+#: admin/inc/fields/codeless_import/import_export.php:265
+#: admin/inc/fields/codeless_import/import_export.php:277
+#: admin/inc/fields/simple_import/import_export.php:266
+#: admin/inc/fields/simple_import/import_export.php:278
+#: envato_setup/envato_setup.php:1999
+msgid "Options imported successfully"
+msgstr ""
+
+#: admin/inc/fields/codeless_import/import_export.php:268
+#: admin/inc/fields/codeless_import/import_export.php:280
+#: admin/inc/fields/simple_import/import_export.php:269
+#: admin/inc/fields/simple_import/import_export.php:281
+#: envato_setup/envato_setup.php:2002
+msgid "Your backup doesn't contain options.txt file."
+msgstr ""
+
+#: admin/inc/fields/codeless_import/import_export.php:297
+#: admin/inc/fields/simple_import/import_export.php:298
+msgid "Options exported successfully"
+msgstr ""
+
+#: admin/inc/fields/codeless_import/import_export.php:318
+#: admin/inc/fields/simple_import/import_export.php:319
+#: envato_setup/envato_setup.php:1807
+msgid "Widgets Imported !"
+msgstr ""
+
+#: admin/inc/fields/codeless_import/import_export.php:321
+#: admin/inc/fields/codeless_import/import_export.php:409
+#: admin/inc/fields/simple_import/import_export.php:322
+#: admin/inc/fields/simple_import/import_export.php:410
+#: envato_setup/envato_setup.php:1810 envato_setup/envato_setup.php:1946
+msgid "Your backup or demo doesn't contain sidebar_widgets.txt file."
+msgstr ""
+
+#: admin/inc/fields/codeless_import/import_export.php:365
+#: admin/inc/fields/simple_import/import_export.php:366
+msgid "Widgets exported successfully"
+msgstr ""
+
+#: admin/inc/fields/codeless_import/import_export.php:406
+#: admin/inc/fields/simple_import/import_export.php:407
+#: envato_setup/envato_setup.php:1943
+msgid "Menu Imported successfully"
+msgstr ""
+
+#: admin/inc/fields/codeless_import/import_export.php:429
+#: admin/inc/fields/simple_import/import_export.php:430
+msgid "Menu exported successfully"
+msgstr ""
+
+#: admin/inc/fields/codeless_import/parsers.php:42
+#: admin/inc/fields/codeless_import/parsers.php:72
+#: admin/inc/fields/codeless_import/parsers.php:80
+#: admin/inc/fields/simple_import/parsers.php:42
+#: admin/inc/fields/simple_import/parsers.php:72
+#: admin/inc/fields/simple_import/parsers.php:80
+#: envato_setup/importer/parsers.php:42 envato_setup/importer/parsers.php:72
+#: envato_setup/importer/parsers.php:80
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: admin/inc/fields/codeless_import/parsers.php:43
+#: admin/inc/fields/simple_import/parsers.php:43
+#: envato_setup/importer/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: admin/inc/fields/codeless_import/parsers.php:84
+#: admin/inc/fields/codeless_import/parsers.php:89
+#: admin/inc/fields/codeless_import/parsers.php:279
+#: admin/inc/fields/codeless_import/parsers.php:468
+#: admin/inc/fields/simple_import/parsers.php:84
+#: admin/inc/fields/simple_import/parsers.php:89
+#: admin/inc/fields/simple_import/parsers.php:279
+#: admin/inc/fields/simple_import/parsers.php:468
+#: envato_setup/importer/parsers.php:84 envato_setup/importer/parsers.php:89
+#: envato_setup/importer/parsers.php:279 envato_setup/importer/parsers.php:468
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: admin/inc/fields/color_gradient/field_color_gradient.php:68
+msgid "From "
+msgstr ""
+
+#: admin/inc/fields/color_gradient/field_color_gradient.php:82
+msgid "To "
+msgstr ""
+
+#: admin/inc/fields/dimensions/field_dimensions.php:162
+msgid "Width"
+msgstr ""
+
+#: admin/inc/fields/dimensions/field_dimensions.php:178
+#: admin/inc/fields/typography/field_typography.php:446
+msgid "Height"
+msgstr ""
+
+#: admin/inc/fields/dimensions/field_dimensions.php:189
+#: admin/inc/fields/dimensions/field_dimensions.php:190
+#: admin/inc/fields/spacing/field_spacing.php:245
+#: admin/inc/fields/spacing/field_spacing.php:246
+msgid "Units"
+msgstr ""
+
+#: admin/inc/fields/gallery/field_gallery.php:73
+msgid "Add/Edit Gallery"
+msgstr ""
+
+#: admin/inc/fields/gallery/field_gallery.php:74
+msgid "Clear Gallery"
+msgstr ""
+
+#: admin/inc/fields/group/field_group.php:82
+msgid "New "
+msgstr ""
+
+#: admin/inc/fields/group/field_group.php:125
+#: admin/inc/fields/slides/field_slides.php:167
+#: admin/inc/fields/slides/field_slides.php:220
+msgid "Delete"
+msgstr ""
+
+#: admin/inc/fields/group/field_group.php:129
+msgid "Add"
+msgstr ""
+
+#: admin/inc/fields/import_export/import_export.php:77
+#: admin/inc/import_export.php:78
+msgid "Import / Export Options"
+msgstr ""
+
+#: admin/inc/fields/import_export/import_export.php:81
+#: admin/inc/import_export.php:82
+msgid "Import from file"
+msgstr ""
+
+#: admin/inc/fields/import_export/import_export.php:81
+#: admin/inc/import_export.php:82
+msgid "Import from URL"
+msgstr ""
+
+#: admin/inc/fields/import_export/import_export.php:99
+#: admin/inc/import_export.php:94
+msgid "Import"
+msgstr ""
+
+#: admin/inc/fields/import_export/import_export.php:109
+#: admin/inc/import_export.php:104
+msgid "Copy"
+msgstr ""
+
+#: admin/inc/fields/import_export/import_export.php:109
+#: admin/inc/import_export.php:104
+msgid "Download"
+msgstr ""
+
+#: admin/inc/fields/import_export/import_export.php:109
+#: admin/inc/import_export.php:104
+msgid "Copy Link"
+msgstr ""
+
+#: admin/inc/fields/link_color/field_link_color.php:88
+msgid "Regular"
+msgstr ""
+
+#: admin/inc/fields/link_color/field_link_color.php:92
+msgid "Hover"
+msgstr ""
+
+#: admin/inc/fields/link_color/field_link_color.php:96
+msgid "Visited"
+msgstr ""
+
+#: admin/inc/fields/link_color/field_link_color.php:100
+#: plugins/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: admin/inc/fields/multi_text/field_multi_text.php:61
+msgid "Add More"
+msgstr ""
+
+#: admin/inc/fields/password/field_password.php:62
+#: includes/widgets/simple_topnavwidget.php:73
+msgid "Password"
+msgstr ""
+
+#: admin/inc/fields/password/field_password.php:63
+#: includes/widgets/simple_topnavwidget.php:72
+msgid "Username"
+msgstr ""
+
+#: admin/inc/fields/select/field_select.php:83
+#: admin/inc/fields/select_image/field_select_image.php:63
+msgid "Select an item"
+msgstr ""
+
+#: admin/inc/fields/select/field_select.php:134
+#: admin/inc/fields/select_image/field_select_image.php:144
+msgid "No items of this type were found."
+msgstr ""
+
+#: admin/inc/fields/simple_import/simple_import.php:112
+msgid ""
+"Here you can download your current site data. Keep this safe as you can use "
+"it as a backup should anything go wrong, or you can use it to restore your "
+"settings on this site (or any other site). You can send your dummy data to "
+"simple Team too if you want to share with the community"
+msgstr ""
+
+#: admin/inc/fields/slides/field_slides.php:68
+msgid "Slide"
+msgstr ""
+
+#: admin/inc/fields/slides/field_slides.php:73
+#: admin/inc/fields/slides/field_slides.php:174
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: admin/inc/fields/slides/field_slides.php:145
+#: admin/inc/fields/slides/field_slides.php:200
+#: includes/simple-slider/simple_slider_options.php:91
+msgid "Title"
+msgstr ""
+
+#: admin/inc/fields/slides/field_slides.php:149
+#: admin/inc/fields/slides/field_slides.php:204
+#: envato_setup/envato_setup.php:1114 includes/core/simple_megamenu.php:642
+#: includes/simple-slider/simple_slider_options.php:152
+msgid "Description"
+msgstr ""
+
+#: admin/inc/fields/slides/field_slides.php:153
+#: admin/inc/fields/slides/field_slides.php:207
+#: includes/core/simple_megamenu.php:556
+msgid "URL"
+msgstr ""
+
+#: admin/inc/fields/slides/field_slides.php:223
+#, php-format
+msgid "Add %s"
+msgstr ""
+
+#: admin/inc/fields/switch/field_switch.php:41
+#: includes/view/blog/loop-grid.php:150 includes/view/blog/loop-grid.php:176
+#: includes/view/blog/loop-index.php:163 includes/view/blog/loop-index.php:191
+#: includes/view/blog/loop-second-style.php:151
+#: includes/view/blog/loop-second-style.php:177
+#: includes/view/blog/loop-timeline.php:160
+#: includes/view/blog/loop-timeline.php:190
+#: includes/view/blog/single-fullscreen.php:56 vc_templates/latest_blog.php:145
+#: vc_templates/recent_news.php:37
+msgid "On"
+msgstr ""
+
+#: admin/inc/fields/switch/field_switch.php:44
+msgid "Off"
+msgstr ""
+
+#: admin/inc/fields/typography/field_typography.php:231
+msgid "Font Family"
+msgstr ""
+
+#: admin/inc/fields/typography/field_typography.php:232
+msgid "Font family"
+msgstr ""
+
+#: admin/inc/fields/typography/field_typography.php:258
+#: admin/inc/fields/typography/field_typography.php:259
+msgid "Backup Font Family"
+msgstr ""
+
+#: admin/inc/fields/typography/field_typography.php:273
+#: admin/inc/fields/typography/field_typography.php:281
+msgid "Font style"
+msgstr ""
+
+#: admin/inc/fields/typography/field_typography.php:274
+msgid "Font Weight &amp; Style"
+msgstr ""
+
+#: admin/inc/fields/typography/field_typography.php:281
+msgid "Style"
+msgstr ""
+
+#: admin/inc/fields/typography/field_typography.php:325
+msgid "Font subsets"
+msgstr ""
+
+#: admin/inc/fields/typography/field_typography.php:327
+msgid "Font Subsets"
+msgstr ""
+
+#: admin/inc/fields/typography/field_typography.php:329
+msgid "Subsets"
+msgstr ""
+
+#: admin/inc/fields/typography/field_typography.php:329
+msgid "Font script"
+msgstr ""
+
+#: admin/inc/fields/typography/field_typography.php:346
+#: admin/inc/fields/typography/field_typography.php:347
+#: admin/inc/fields/typography/field_typography.php:348
+msgid "Text Align"
+msgstr ""
+
+#: admin/inc/fields/typography/field_typography.php:369
+#: admin/inc/fields/typography/field_typography.php:370
+#: admin/inc/fields/typography/field_typography.php:371
+msgid "Text Transform"
+msgstr ""
+
+#: admin/inc/fields/typography/field_typography.php:392
+#: admin/inc/fields/typography/field_typography.php:393
+#: admin/inc/fields/typography/field_typography.php:394
+msgid "Font Variant"
+msgstr ""
+
+#: admin/inc/fields/typography/field_typography.php:412
+#: admin/inc/fields/typography/field_typography.php:413
+#: admin/inc/fields/typography/field_typography.php:414
+msgid "Text Decoration"
+msgstr ""
+
+#: admin/inc/fields/typography/field_typography.php:436
+#: admin/inc/fields/typography/field_typography.php:437
+msgid "Font Size"
+msgstr ""
+
+#: admin/inc/fields/typography/field_typography.php:437
+msgid "Size"
+msgstr ""
+
+#: admin/inc/fields/typography/field_typography.php:445
+#: admin/inc/fields/typography/field_typography.php:446
+msgid "Line Height"
+msgstr ""
+
+#: admin/inc/fields/typography/field_typography.php:454
+#: admin/inc/fields/typography/field_typography.php:455
+msgid "Word Spacing"
+msgstr ""
+
+#: admin/inc/fields/typography/field_typography.php:463
+#: admin/inc/fields/typography/field_typography.php:464
+msgid "Letter Spacing"
+msgstr ""
+
+#: admin/inc/fields/typography/field_typography.php:482
+msgid "Font Color"
+msgstr ""
+
+#: admin/inc/fields/typography/field_typography.php:484
+msgid "Font color"
+msgstr ""
+
+#: admin/inc/fields/typography/field_typography.php:894
+msgid "Standard Fonts"
+msgstr ""
+
+#: admin/inc/fields/typography/field_typography.php:995
+msgid "Google Webfonts"
+msgstr ""
+
+#: admin/inc/themecheck/checks/embedded.php:15
+#, php-format
+msgid ""
+"<span class=\"tc-lead tc-recommended\">RECOMMENDED</span>: If you are "
+"submitting to WordPress.org Theme Repository, it is <strong>strongly</"
+"strong> suggested that you read <a href=\"%s\" target=\"_blank\">this "
+"document</a>, or your theme will be rejected because of Redux."
+msgstr ""
+
+#: admin/inc/themecheck/checks/embedded.php:24
+#, php-format
+msgid ""
+"<span class=\"tc-lead tc-required\">REQUIRED</span>: You MUST delete "
+"<strong> %s </strong>, or your theme will be rejected by WP.org theme "
+"submission because of Redux."
+msgstr ""
+
+#: admin/inc/themecheck/checks/embedded.php:38
+msgid "Optional"
+msgstr ""
+
+#: admin/inc/themecheck/checks/embedded.php:40
+msgid ""
+"<span class=\"tc-lead tc-recommended\">RECOMMENDED</span>: The following "
+"arguments MUST be used for WP.org submissions, or you will be rejected "
+"because of your Redux configuration."
+msgstr ""
+
+#: admin/inc/themecheck/checks/full_package.php:16
+msgid "Redux localization utilities"
+msgstr ""
+
+#: admin/inc/themecheck/checks/full_package.php:17
+msgid "Redux Resting Diles"
+msgstr ""
+
+#: admin/inc/themecheck/checks/full_package.php:18
+msgid "Redux Code Styles"
+msgstr ""
+
+#: admin/inc/themecheck/checks/full_package.php:19
+msgid "Redux Unit Testing"
+msgstr ""
+
+#: admin/inc/themecheck/checks/full_package.php:20
+msgid "Redux Plugin File"
+msgstr ""
+
+#: admin/inc/themecheck/checks/full_package.php:21
+msgid "Redux Boostrap Tests"
+msgstr ""
+
+#: admin/inc/themecheck/checks/full_package.php:22
+msgid "CI Testing FIle"
+msgstr ""
+
+#: admin/inc/themecheck/checks/full_package.php:23
+msgid "PHP Unit Testing"
+msgstr ""
+
+#: admin/inc/themecheck/checks/full_package.php:36
+msgid ""
+"It appears that you have embedded the full Redux package inside your theme. "
+"You need only embed the <strong>ReduxCore</strong> folder. Embedding "
+"anything else will get your rejected from theme submission. Suspected Redux "
+"package file(s):"
+msgstr ""
+
+#: admin/inc/validation/color/validation_color.php:15
+#: admin/inc/validation/color_rgba/validation_color_rgba.php:14
+#: admin/inc/validation/colorrgba/validation_colorrgba.php:16
+msgid "This field must be a valid color value."
+msgstr ""
+
+#: admin/inc/validation/comma_numeric/validation_comma_numeric.php:16
+msgid ""
+"You must provide a comma separated list of numerical values for this option."
+msgstr ""
+
+#: admin/inc/validation/css/validation_css.php:39
+msgid "Unsafe strings were found in your CSS and have been filtered out."
+msgstr ""
+
+#: admin/inc/validation/date/validation_date.php:16
+msgid "This field must be a valid date."
+msgstr ""
+
+#: admin/inc/validation/email/validation_email.php:16
+#: admin/inc/validation/email_not_empty/validation_email_not_empty.php:16
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#: admin/inc/validation/no_html/validation_no_html.php:15
+msgid ""
+"You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+#: admin/inc/validation/no_special_chars/validation_no_special_chars.php:16
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+
+#: admin/inc/validation/not_empty/validation_not_empty.php:16
+msgid "This field cannot be empty. Please provide a value."
+msgstr ""
+
+#: admin/inc/validation/numeric/validation_numeric.php:16
+#: admin/inc/validation/numeric_not_empty/validation_numeric_not_empty.php:16
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#: admin/inc/validation/unique_slug/validation_unique_slug.php:16
+#, php-format
+msgid ""
+"That URL slug is in use, please choose another. <code>%s</code> is open for "
+"use."
+msgstr ""
+
+#: admin/inc/validation/url/validation_url.php:16
+msgid "You must provide a valid URL for this option."
+msgstr ""
+
+#: admin/inc/welcome/views/about.php:2 admin/inc/welcome.php:164
+#: admin/inc/welcome.php:333 admin/inc/welcome.php:471
+#, php-format
+msgid "Welcome to Redux Framework %s"
+msgstr ""
+
+#: admin/inc/welcome/views/about.php:5
+#, php-format
+msgid ""
+"Thank you for updating to the latest version! Redux Framework %s is a huge "
+"step forward in Redux Development. Look at all that's new."
+msgstr ""
+
+#: admin/inc/welcome/views/about.php:8 admin/inc/welcome/views/changelog.php:10
+#: admin/inc/welcome/views/credits.php:10
+#: admin/inc/welcome/views/extensions.php:81
+#: admin/inc/welcome/views/status_report.php:34
+#: admin/inc/welcome/views/support.php:8 admin/inc/welcome.php:169
+#: admin/inc/welcome.php:300 admin/inc/welcome.php:338
+#: admin/inc/welcome.php:476
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: admin/inc/welcome/views/about.php:15
+msgid "What is Redux Framework?"
+msgstr ""
+
+#: admin/inc/welcome/views/about.php:17
+msgid ""
+"Redux Framework is the core of many products on the web. It is an option "
+"framework which developers use to\n"
+"            enhance their products."
+msgstr ""
+
+#: admin/inc/welcome/views/about.php:22
+msgid "Learn More"
+msgstr ""
+
+#: admin/inc/welcome/views/about.php:28
+msgid "New in this Release"
+msgstr ""
+
+#: admin/inc/welcome/views/credits.php:18
+#, php-format
+msgid ""
+"Redux is created by a community of developers world wide. Want to have your "
+"name listed too? <a href=\"%d\" target=\"_blank\">Contribute to Redux</a>."
+msgstr ""
+
+#: admin/inc/welcome/views/extensions.php:76
+msgid ""
+"Supercharge your Redux experience. Our extensions provide you with features "
+"that will take your products to the next level."
+msgstr ""
+
+#: admin/inc/welcome/views/status_report.php:120
+#, php-format
+msgid "To allow data saving, make <code>%s</code> writable."
+msgstr ""
+
+#: admin/inc/welcome/views/status_report.php:220
+#, php-format
+msgid ""
+"%s - We recommend setting memory to at least 40MB. See: <a href=\"%s\" "
+"target=\"_blank\">Increasing memory allocated to PHP</a>"
+msgstr ""
+
+#: admin/inc/welcome/views/status_report.php:416
+#, php-format
+msgid "Default timezone is %s - it should be UTC"
+msgstr ""
+
+#: admin/inc/welcome/views/status_report.php:482
+#: admin/inc/welcome/views/status_report.php:497
+#, php-format
+msgid "Error: %s"
+msgstr ""
+
+#: admin/inc/welcome/views/status_report.php:553
+#, php-format
+msgid "by %s"
+msgstr ""
+
+#: admin/inc/welcome/views/status_report.php:737
+#, php-format
+msgid ""
+"If you're modifying Redux Framework or a parent theme you didn't build "
+"personally, we recommend using a child theme. See: <a href=\"%s\" target="
+"\"_blank\">How to create a child theme</a>"
+msgstr ""
+
+#: admin/inc/welcome/views/support.php:35
+#, php-format
+msgid ""
+"This will provide to your developer all the information they may need to "
+"remedy your issue. This action WILL send information securely to a remote "
+"server. To see the type of information sent, please look at the  <a href=\"%s"
+"\">Status tab</a>."
+msgstr ""
+
+#: admin/inc/welcome/views/support.php:134
+#, php-format
+msgid ""
+"Should the developer not be responsive, read the <a href=\"%s\" target="
+"\"_blank\">following article</a> before asking for support from us directly."
+msgstr ""
+
+#: admin/inc/welcome/welcome.php:104
+msgid ""
+"If you like Redux please leave us a rating. A huge thank you from Redux in "
+"advance!"
+msgstr ""
+
+#: admin/inc/welcome/welcome.php:351 admin/inc/welcome.php:147
+msgid "Credits"
+msgstr ""
+
+#: admin/inc/welcome/welcome.php:514 admin/inc/welcome.php:539
+#, php-format
+msgid "View %s"
+msgstr ""
+
+#: admin/inc/welcome.php:40
+msgid "Welcome to Redux Framework"
+msgstr ""
+
+#: admin/inc/welcome.php:48 admin/inc/welcome.php:295
+msgid "Redux Framework Changelog"
+msgstr ""
+
+#: admin/inc/welcome.php:56
+msgid "Getting started with Redux Framework"
+msgstr ""
+
+#: admin/inc/welcome.php:64
+msgid "The people that develop Redux Framework"
+msgstr ""
+
+#: admin/inc/welcome.php:135
+msgid "What's New"
+msgstr ""
+
+#: admin/inc/welcome.php:139
+msgid "Getting Started"
+msgstr ""
+
+#: admin/inc/welcome.php:143
+msgid "Changelog"
+msgstr ""
+
+#: admin/inc/welcome.php:167
+#, php-format
+msgid ""
+"Thank you for updating to the latest version! Redux Framework %s is ready to "
+"<add description>"
+msgstr ""
+
+#: admin/inc/welcome.php:174
+msgid "Some Feature"
+msgstr ""
+
+#: admin/inc/welcome.php:178 admin/inc/welcome.php:182
+#: admin/inc/welcome.php:195 admin/inc/welcome.php:199
+#: admin/inc/welcome.php:203 admin/inc/welcome.php:208
+#: admin/inc/welcome.php:221 admin/inc/welcome.php:225
+#: admin/inc/welcome.php:230
+msgid "Feature"
+msgstr ""
+
+#: admin/inc/welcome.php:190
+msgid "Some feature"
+msgstr ""
+
+#: admin/inc/welcome.php:217
+msgid "More Features"
+msgstr ""
+
+#: admin/inc/welcome.php:223 admin/inc/welcome.php:227
+#: admin/inc/welcome.php:232
+msgid "description"
+msgstr ""
+
+#: admin/inc/welcome.php:238
+msgid "Additional Updates"
+msgstr ""
+
+#: admin/inc/welcome.php:242 admin/inc/welcome.php:246
+#: admin/inc/welcome.php:252 admin/inc/welcome.php:256
+#: admin/inc/welcome.php:262 admin/inc/welcome.php:266
+msgid "Cool thing"
+msgstr ""
+
+#: admin/inc/welcome.php:244 admin/inc/welcome.php:248
+#: admin/inc/welcome.php:254 admin/inc/welcome.php:258
+#: admin/inc/welcome.php:264 admin/inc/welcome.php:268
+msgid "cool thing description."
+msgstr ""
+
+#: admin/inc/welcome.php:277 admin/inc/welcome.php:316
+msgid "Go to Redux Framework"
+msgstr ""
+
+#: admin/inc/welcome.php:278
+msgid "View the Full Changelog"
+msgstr ""
+
+#: admin/inc/welcome.php:298 admin/inc/welcome.php:336
+#: admin/inc/welcome.php:474
+#, php-format
+msgid ""
+"Thank you for updating to the latest version! Redux Framework %s is ready to "
+"make your <description>"
+msgstr ""
+
+#: admin/inc/welcome.php:305
+msgid "Full Changelog"
+msgstr ""
+
+#: admin/inc/welcome.php:342
+msgid ""
+"Use the tips below to get started using Redux Framework. You'll be up and "
+"running in no time!"
+msgstr ""
+
+#: admin/inc/welcome.php:345
+msgid "Creating Your First Panel"
+msgstr ""
+
+#: admin/inc/welcome.php:350
+#, php-format
+msgid "<a href=\"%s\">%s &rarr; Add New</a>"
+msgstr ""
+
+#: admin/inc/welcome.php:352
+#, php-format
+msgid ""
+"The %s menu is your access point for all aspects of your Easy Digital "
+"Downloads product creation and setup. To create your first product, simply "
+"click Add New and then fill out the product details."
+msgstr ""
+
+#: admin/inc/welcome.php:354
+msgid "Product Price"
+msgstr ""
+
+#: admin/inc/welcome.php:356
+msgid ""
+"Products can have simple prices or variable prices if you wish to have more "
+"than one price point for a product. For a single price, simply enter the "
+"price. For multiple price points, click <em>Enable variable pricing</em> and "
+"enter the options."
+msgstr ""
+
+#: admin/inc/welcome.php:358
+msgid "Download Files"
+msgstr ""
+
+#: admin/inc/welcome.php:360
+msgid ""
+"Uploading the downloadable files is simple. Click <em>Upload File</em> in "
+"the Download Files section and choose your download file. To add more than "
+"one file, simply click the <em>Add New</em> button."
+msgstr ""
+
+#: admin/inc/welcome.php:366
+msgid "Display a Product Grid"
+msgstr ""
+
+#: admin/inc/welcome.php:373
+msgid "Flexible Product Grids"
+msgstr ""
+
+#: admin/inc/welcome.php:375
+msgid ""
+"The [downloads] shortcode will display a product grid that works with any "
+"theme, no matter the size. It is even responsive!"
+msgstr ""
+
+#: admin/inc/welcome.php:377
+msgid "Change the Number of Columns"
+msgstr ""
+
+#: admin/inc/welcome.php:379
+msgid ""
+"You can easily change the number of columns by adding the columns=\"x\" "
+"parameter:"
+msgstr ""
+
+#: admin/inc/welcome.php:385
+msgid "Additional Display Options"
+msgstr ""
+
+#: admin/inc/welcome.php:387
+#, php-format
+msgid ""
+"The product grids can be customized in any way you wish and there is <a href="
+"\"%s\">extensive documentation</a> to assist you."
+msgstr ""
+
+#: admin/inc/welcome.php:392
+msgid "Purchase Buttons Anywhere"
+msgstr ""
+
+#: admin/inc/welcome.php:397
+msgid "The <em>[purchase_link]</em> Shortcode"
+msgstr ""
+
+#: admin/inc/welcome.php:399
+msgid ""
+"With easily accessible shortcodes to display purchase buttons, you can add a "
+"Buy Now or Add to Cart button for any product anywhere on your site in "
+"seconds."
+msgstr ""
+
+#: admin/inc/welcome.php:401
+msgid "Buy Now Buttons"
+msgstr ""
+
+#: admin/inc/welcome.php:403
+msgid ""
+"Purchase buttons can behave as either Add to Cart or Buy Now buttons. With "
+"Buy Now buttons customers are taken straight to PayPal, giving them the most "
+"frictionless purchasing experience possible."
+msgstr ""
+
+#: admin/inc/welcome.php:409
+msgid "Need Help?"
+msgstr ""
+
+#: admin/inc/welcome.php:413
+msgid "Phenomenal Support"
+msgstr ""
+
+#: admin/inc/welcome.php:415
+msgid ""
+"We do our best to provide the best support we can. If you encounter a "
+"problem or have a question, post a question in the"
+msgstr ""
+
+#: admin/inc/welcome.php:417
+msgid "Need Even Faster Support?"
+msgstr ""
+
+#: admin/inc/welcome.php:419
+msgid ""
+"Our  are there for customers that need faster and/or more in-depth "
+"assistance."
+msgstr ""
+
+#: admin/inc/welcome.php:425
+msgid "Stay Up to Date"
+msgstr ""
+
+#: admin/inc/welcome.php:429
+msgid "Get Notified of Extension Releases"
+msgstr ""
+
+#: admin/inc/welcome.php:431
+msgid ""
+"New extensions that make Easy Digital Downloads even more powerful are "
+"released nearly every single week. Subscribe to the newsletter to stay up to "
+"date with our latest releases"
+msgstr ""
+
+#: admin/inc/welcome.php:433
+msgid "Get Alerted About New Tutorials"
+msgstr ""
+
+#: admin/inc/welcome.php:435
+msgid ""
+"To hear about the latest tutorial releases that explain how to take Easy "
+"Digital Downloads further."
+msgstr ""
+
+#: admin/inc/welcome.php:441
+msgid "Extensions for Everything"
+msgstr ""
+
+#: admin/inc/welcome.php:445
+msgid "Over 250 Extensions"
+msgstr ""
+
+#: admin/inc/welcome.php:447
+msgid ""
+"Add-on plugins are available that greatly extend the default functionality "
+"of Easy Digital Downloads. There are extensions for payment processors, such "
+"as Stripe and PayPal, extensions for newsletter integrations, and many, many "
+"more."
+msgstr ""
+
+#: admin/inc/welcome.php:449
+msgid "Visit the Extension Store"
+msgstr ""
+
+#: admin/inc/welcome.php:451
+msgid ""
+"has a list of all available extensions, including convenient category "
+"filters so you can find exactly what you are looking for."
+msgstr ""
+
+#: admin/inc/welcome.php:480
+msgid ""
+"Redux Framework is created by a worldwide team of developers who <something "
+"witty here>"
+msgstr ""
+
+#: admin/inc/welcome.php:500
+msgid "No valid changlog was found."
+msgstr ""
+
+#: admin/loader/extensions/metaboxes/extension_metaboxes.php:1100
+msgid "Expand"
+msgstr ""
+
+#: admin/loader/extensions/metaboxes/extension_metaboxes.php:1387
+msgid "warnings(s) were found!"
+msgstr ""
+
+#: admin/templates/panel/footer.tpl.php:57
+msgid "Save Changes"
+msgstr ""
+
+#: admin/templates/panel/footer.tpl.php:61
+msgid "Reset Section"
+msgstr ""
+
+#: admin/templates/panel/footer.tpl.php:62
+msgid "Reset All"
+msgstr ""
+
+#: admin/templates/panel/footer.tpl.php:67
+msgid "Working..."
+msgstr ""
+
+#: admin/templates/panel/header.tpl.php:11
+#: admin/templates/panel/header.tpl.php:49
+msgid "Developer Mode Enabled"
+msgstr ""
+
+#: admin/templates/panel/header.tpl.php:20
+msgid "WP_DEBUG is enabled"
+msgstr ""
+
+#: admin/templates/panel/header.tpl.php:26
+msgid "you are working in a localhost environment"
+msgstr ""
+
+#: admin/templates/panel/header.tpl.php:31
+msgid "and"
+msgstr ""
+
+#: admin/templates/panel/header.tpl.php:34
+msgid "This has been automatically enabled because"
+msgstr ""
+
+#: admin/templates/panel/header.tpl.php:36
+msgid ""
+"If you are not a developer, your theme/plugin author shipped with developer "
+"mode enabled. Contact them directly to fix it."
+msgstr ""
+
+#: admin/templates/panel/header.tpl.php:58
+msgid "FORCED DEV MODE OFF ENABLED"
+msgstr ""
+
+#: envato_setup/envato_setup.php:320 envato_setup/envato_setup.php:322
+msgid "Setup Wizard"
+msgstr ""
+
+#: envato_setup/envato_setup.php:339
+msgid "Introduction"
+msgstr ""
+
+#: envato_setup/envato_setup.php:346
+msgid "Plugins"
+msgstr ""
+
+#: envato_setup/envato_setup.php:357
+#: includes/simple-slider/simple_slider_options.php:83
+msgid "Content"
+msgstr ""
+
+#: envato_setup/envato_setup.php:362
+msgid "Logo & Design"
+msgstr ""
+
+#: envato_setup/envato_setup.php:367
+msgid "Customize"
+msgstr ""
+
+#: envato_setup/envato_setup.php:372
+msgid "Support"
+msgstr ""
+
+#: envato_setup/envato_setup.php:377
+msgid "Ready!"
+msgstr ""
+
+#: envato_setup/envato_setup.php:408
+msgid "...verifying"
+msgstr ""
+
+#: envato_setup/envato_setup.php:486
+msgid "Return to the WordPress Dashboard"
+msgstr ""
+
+#: envato_setup/envato_setup.php:685 envato_setup/envato_setup.php:696
+#: envato_setup/envato_setup.php:718
+#, php-format
+msgid "Welcome to the setup wizard for %s."
+msgstr ""
+
+#: envato_setup/envato_setup.php:686
+msgid ""
+"It looks like you may have recently upgraded to this theme. Great! This "
+"setup wizard will help ensure all the default settings are correct. It will "
+"also show some information about your new website and support options."
+msgstr ""
+
+#: envato_setup/envato_setup.php:689 envato_setup/envato_setup.php:723
+msgid "Let's Go!"
+msgstr ""
+
+#: envato_setup/envato_setup.php:691 envato_setup/envato_setup.php:725
+msgid "Not right now"
+msgstr ""
+
+#: envato_setup/envato_setup.php:697
+msgid ""
+"It looks like you have already run the setup wizard. Below are some options: "
+msgstr ""
+
+#: envato_setup/envato_setup.php:701
+msgid "Run Setup Wizard Again"
+msgstr ""
+
+#: envato_setup/envato_setup.php:713 includes/core/simple_megamenu.php:740
+msgid "Cancel"
+msgstr ""
+
+#: envato_setup/envato_setup.php:719
+#, php-format
+msgid ""
+"Thank you for choosing the %s theme from ThemeForest. This quick setup "
+"wizard will help you configure your new website. This wizard will install "
+"the required WordPress plugins, default content, logo and tell you a little "
+"about Help &amp; Support options. <br/>It should only take 5 minutes."
+msgstr ""
+
+#: envato_setup/envato_setup.php:720
+msgid ""
+"No time right now? If you don't want to go through the wizard, you can skip "
+"and return to the WordPress dashboard. Come back anytime if you change your "
+"mind!"
+msgstr ""
+
+#: envato_setup/envato_setup.php:832
+msgid "Default Plugins"
+msgstr ""
+
+#: envato_setup/envato_setup.php:839
+msgid ""
+"Your website needs a few essential plugins. The following plugins will be "
+"installed or updated:"
+msgstr ""
+
+#: envato_setup/envato_setup.php:858
+msgid ""
+"Good news! All plugins are already installed and up to date. Please continue."
+msgstr ""
+
+#: envato_setup/envato_setup.php:861
+msgid "You can add and remove plugins later on from within WordPress."
+msgstr ""
+
+#: envato_setup/envato_setup.php:864 envato_setup/envato_setup.php:1150
+#: envato_setup/envato_setup.php:2286 envato_setup/envato_setup.php:2342
+msgid "Continue"
+msgstr ""
+
+#: envato_setup/envato_setup.php:865 envato_setup/envato_setup.php:1151
+#: envato_setup/envato_setup.php:2206 envato_setup/envato_setup.php:2298
+msgid "Skip this step"
+msgstr ""
+
+#: envato_setup/envato_setup.php:875
+msgid "No Slug Found"
+msgstr ""
+
+#: envato_setup/envato_setup.php:891
+msgid "Activating Plugin"
+msgstr ""
+
+#: envato_setup/envato_setup.php:906
+msgid "Updating Plugin"
+msgstr ""
+
+#: envato_setup/envato_setup.php:921
+msgid "Installing Plugin"
+msgstr ""
+
+#: envato_setup/envato_setup.php:931
+msgid "Success"
+msgstr ""
+
+#: envato_setup/envato_setup.php:967
+#, php-format
+msgid "This will create default %s as seen in the demo."
+msgstr ""
+
+#: envato_setup/envato_setup.php:968 envato_setup/envato_setup.php:996
+#: envato_setup/envato_setup.php:1026 envato_setup/envato_setup.php:1038
+#: envato_setup/envato_setup.php:1049 envato_setup/envato_setup.php:1064
+msgid "Pending."
+msgstr ""
+
+#: envato_setup/envato_setup.php:969
+msgid "Installing."
+msgstr ""
+
+#: envato_setup/envato_setup.php:970 envato_setup/envato_setup.php:998
+#: envato_setup/envato_setup.php:1028 envato_setup/envato_setup.php:1040
+#: envato_setup/envato_setup.php:1051 envato_setup/envato_setup.php:1066
+msgid "Success."
+msgstr ""
+
+#: envato_setup/envato_setup.php:994
+msgid "Widgets"
+msgstr ""
+
+#: envato_setup/envato_setup.php:995
+msgid "Insert default sidebar widgets as seen in the demo."
+msgstr ""
+
+#: envato_setup/envato_setup.php:997
+msgid "Installing Default Widgets."
+msgstr ""
+
+#: envato_setup/envato_setup.php:1024
+msgid "Theme Option"
+msgstr ""
+
+#: envato_setup/envato_setup.php:1025
+msgid "Configure default settings."
+msgstr ""
+
+#: envato_setup/envato_setup.php:1027
+msgid "Installing Default Settings."
+msgstr ""
+
+#: envato_setup/envato_setup.php:1036
+msgid "Install Images"
+msgstr ""
+
+#: envato_setup/envato_setup.php:1037
+msgid "Install Img and attachments"
+msgstr ""
+
+#: envato_setup/envato_setup.php:1039
+msgid "Installing attachments."
+msgstr ""
+
+#: envato_setup/envato_setup.php:1047
+msgid "Install Content"
+msgstr ""
+
+#: envato_setup/envato_setup.php:1048
+msgid "Install Content of the Demo."
+msgstr ""
+
+#: envato_setup/envato_setup.php:1050
+msgid "Installing Demo."
+msgstr ""
+
+#: envato_setup/envato_setup.php:1062
+msgid "Menu"
+msgstr ""
+
+#: envato_setup/envato_setup.php:1063
+msgid "Insert default menu as seen in the demo."
+msgstr ""
+
+#: envato_setup/envato_setup.php:1065
+msgid "Installing Default Menu."
+msgstr ""
+
+#: envato_setup/envato_setup.php:1100
+msgid "Choose one demo to be installed"
+msgstr ""
+
+#: envato_setup/envato_setup.php:1103
+msgid ""
+"It looks like you already have content installed on this website. If you "
+"would like to install the default demo content as well you can select it "
+"below. Otherwise just choose the upgrade option to ensure everything is up "
+"to date."
+msgstr ""
+
+#: envato_setup/envato_setup.php:1105
+msgid ""
+"It's time to insert some default content for your new WordPress website. "
+"Choose what you would like inserted below and click Continue. It is "
+"recommended to leave everything selected. Once inserted, this content can be "
+"managed from the WordPress admin dashboard. "
+msgstr ""
+
+#: envato_setup/envato_setup.php:1113
+msgid "Item"
+msgstr ""
+
+#: envato_setup/envato_setup.php:1115
+#: plugins/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#: envato_setup/envato_setup.php:1162
+msgid "No content Found"
+msgstr ""
+
+#: envato_setup/envato_setup.php:1215
+msgid "Error"
+msgstr ""
+
+#: envato_setup/envato_setup.php:1760
+msgid "Remote server did not respond"
+msgstr ""
+
+#: envato_setup/envato_setup.php:2143
+msgid "Logo &amp; Design"
+msgstr ""
+
+#: envato_setup/envato_setup.php:2145
+msgid ""
+"Please add your logo below. For best results, the logo should be a "
+"transparent PNG ( 466 by 277 pixels). The logo can be changed at any time "
+"from the Appearance > Customize area in your dashboard."
+msgstr ""
+
+#: envato_setup/envato_setup.php:2167
+msgid "Upload New Logo"
+msgstr ""
+
+#: envato_setup/envato_setup.php:2179
+msgid ""
+"Please choose the color scheme for this website. The color scheme (along "
+"with font colors &amp; styles) can be changed at any time from the "
+"Appearance > Customize area in your dashboard."
+msgstr ""
+
+#: envato_setup/envato_setup.php:2258
+msgid "Theme Updates"
+msgstr ""
+
+#: envato_setup/envato_setup.php:2291
+msgid ""
+"Please login using your ThemeForest account to enable Theme Updates. We "
+"update themes when a new feature is added or a bug is fixed. It is highly "
+"recommended to enable Theme Updates."
+msgstr ""
+
+#: envato_setup/envato_setup.php:2367
+msgid "Agree and Continue"
+msgstr ""
+
+#: envato_setup/envato_setup.php:2383
+msgid "Your Website is Ready!"
+msgstr ""
+
+#: envato_setup/envato_setup.php:2390
+msgid "Next Steps"
+msgstr ""
+
+#: envato_setup/envato_setup.php:2392
+msgid "Follow @ellethemes on Twitter"
+msgstr ""
+
+#: envato_setup/envato_setup.php:2393
+msgid "View your new website!"
+msgstr ""
+
+#: envato_setup/envato_setup.php:2397
+msgid "More Resources"
+msgstr ""
+
+#: envato_setup/envato_setup.php:2399
+msgid "Read the Theme Documentation"
+msgstr ""
+
+#: envato_setup/envato_setup.php:2400
+msgid "Learn how to use WordPress"
+msgstr ""
+
+#: envato_setup/envato_setup.php:2401
+msgid "Leave an Item Rating"
+msgstr ""
+
+#: envato_setup/envato_setup.php:2402
+msgid "Get Help and Support"
+msgstr ""
+
+#: envato_setup/envato_setup.php:2460
+#, php-format
+msgid "Something went wrong while trying to retrieve oauth token: %s"
+msgstr ""
+
+#: envato_setup/envato_setup.php:2477
+#, php-format
+msgid "Login for %s updates"
+msgstr ""
+
+#: envato_setup/envato_setup.php:2484
+msgid "oAuth Login"
+msgstr ""
+
+#: envato_setup/importer/wordpress-importer.php:1130
+msgid ""
+"Import <strong>posts, pages, comments, custom fields, categories, and tags</"
+"strong> from a WordPress export file."
+msgstr ""
+
+#: functions-simple.php:8
+msgid "About"
+msgstr ""
+
+#: functions-simple.php:81
+msgid "Load More"
+msgstr ""
+
+#: functions-woocommerce.php:172 includes/view/woocommerce-cart.php:10
+msgid "Cart is empty"
+msgstr ""
+
+#: functions-woocommerce.php:175 functions-woocommerce.php:227
+#: includes/view/woocommerce-cart.php:13 includes/view/woocommerce-cart.php:62
+msgid "View Cart"
+msgstr ""
+
+#: functions-woocommerce.php:178 functions-woocommerce.php:230
+#: includes/view/woocommerce-cart.php:16 includes/view/woocommerce-cart.php:65
+msgid "Subtotal:"
+msgstr ""
+
+#: functions.php:328
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: functions.php:365
+#, php-format
+msgid ""
+"To enable theme update notifications, please enter your Envato Marketplace "
+"credentials in the %s"
+msgstr ""
+
+#: functions.php:401
+#, php-format
+msgid "An update to the theme is available! Head over to %s to update it now."
+msgstr ""
+
+#: includes/core/simple_elements.php:601
+msgid "Show off some recent portfolio"
+msgstr ""
+
+#: includes/core/simple_megamenu.php:484
+msgid " (Pending)"
+msgstr ""
+
+#: includes/core/simple_megamenu.php:528
+msgid "Mega Menu Column"
+msgstr ""
+
+#: includes/core/simple_megamenu.php:530
+msgid "Mega Menu"
+msgstr ""
+
+#: includes/core/simple_megamenu.php:534 includes/core/simple_megamenu.php:538
+msgid "Edit Menu Item"
+msgstr ""
+
+#: includes/core/simple_megamenu.php:570
+msgid "Navigation Label"
+msgstr ""
+
+#: includes/core/simple_megamenu.php:572
+msgid "Title for the Mega Menu Column"
+msgstr ""
+
+#: includes/core/simple_megamenu.php:588
+msgid "Title Attribute"
+msgstr ""
+
+#: includes/core/simple_megamenu.php:600
+msgid "link Target"
+msgstr ""
+
+#: includes/core/simple_megamenu.php:604
+msgid "Same window or tab"
+msgstr ""
+
+#: includes/core/simple_megamenu.php:606
+msgid "New window or tab"
+msgstr ""
+
+#: includes/core/simple_megamenu.php:618
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: includes/core/simple_megamenu.php:630
+msgid "link Relationship (XFN)"
+msgstr ""
+
+#: includes/core/simple_megamenu.php:712
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:19
+msgid "Page Style"
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:26
+msgid "Overwrite the link with your custom link"
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:31
+msgid "Add Custom Link"
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:37
+msgid "Select the style of the single portfolio"
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:46 includes/core/simple_metaboxes.php:55
+#: includes/simple-slider/simple_slider_options.php:289
+msgid "Content Position"
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:64
+msgid "Media Type"
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:73
+msgid "Video"
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:82 includes/core/simple_metaboxes.php:514
+msgid "Add/Edit Slides"
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:83 includes/core/simple_metaboxes.php:515
+msgid "Add new or edit existing slider images"
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:90
+msgid "Switch On if you want comments functionality"
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:101
+msgid "Custom Fields"
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:108
+msgid "Custom fields Values"
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:109
+msgid ""
+"Create unlimited custom fields in Theme Options. Leave empty if you dont "
+"want to display this custom field"
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:122
+msgid "Single Portfolio Options"
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:155
+msgid "Portfolio Categories"
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:164
+msgid "Portfolio Mode"
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:172
+msgid "Portfolio Columns"
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:201
+msgid "Portfolio Style"
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:209
+msgid "Portfolio Layout"
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:217
+msgid "Portfolio Space"
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:225
+msgid "Portfolio Content Position"
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:234 includes/core/simple_options.php:2988
+msgid "Select the pagination method"
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:241
+msgid "Select the portfolio filter style"
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:251
+#: includes/core/simple_metaboxes.php:829
+msgid "Portfolio Options"
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:283
+msgid "Overwrite the default post layout"
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:284
+msgid "Do you want to overwrite the default layout for this post?"
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:288 includes/core/simple_options.php:2943
+#: includes/core/simple_options.php:3055
+#: includes/simple-slider/simple_slider_options.php:283
+msgid "Layout"
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:289 includes/core/simple_options.php:2944
+msgid "Select main content and sidebar arrangement."
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:306
+msgid "Left Sidebar"
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:315
+msgid "Right Sidebar"
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:357
+msgid "Page Header Options"
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:358
+msgid ""
+"In this section you can create custom page header only for this page. If you "
+"want to change or to view the default page header options"
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:365
+msgid "Overwrite the default page options"
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:366
+msgid "Do you want to overwrite the default page options in Theme Options ?"
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:373 includes/core/simple_options.php:1091
+msgid "Active Page Header"
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:374 includes/core/simple_options.php:1092
+msgid ""
+"Switch On to enable page header for pages, posts (For each post or page you "
+"can add custom options)"
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:386 includes/core/simple_options.php:1103
+msgid "Page Header Height"
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:387 includes/core/simple_options.php:184
+#: includes/core/simple_options.php:506 includes/core/simple_options.php:531
+#: includes/core/simple_options.php:634 includes/core/simple_options.php:857
+#: includes/core/simple_options.php:1076 includes/core/simple_options.php:1104
+#: includes/core/simple_options.php:1177 includes/core/simple_options.php:3089
+#: includes/core/simple_options.php:3102 includes/core/simple_options.php:3115
+#: includes/core/simple_options.php:3130
+msgid "units: px"
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:396 includes/core/simple_options.php:1112
+msgid "Page header style"
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:397 includes/core/simple_options.php:1113
+msgid "Select the style for the default page header"
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:406
+msgid "Subtitle for this page ?"
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:414
+msgid "Subtitle for this page"
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:415
+msgid "Add a subtitle here"
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:416
+msgid "Show after the main title  "
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:425 includes/core/simple_options.php:1122
+msgid "Page header font color"
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:426 includes/core/simple_options.php:1123
+msgid "Select the color for the title or breadcrumbs in page header"
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:436 includes/core/simple_options.php:1132
+msgid "Page header background"
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:437 includes/core/simple_options.php:1133
+msgid "Page Header background with image, color, etc."
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:499
+msgid "Sliders Options"
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:505
+msgid "Select Slider Type"
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:506
+msgid "Select one of the listed sliders"
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:522
+msgid "Gallery Carousel Effect"
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:532
+msgid "Select one of the created revolution sliders."
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:542
+msgid "Select one of the created layer sliders."
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:552
+msgid "Select one of the created simpleliders."
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:562
+msgid "Simple Slider Speed"
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:571
+msgid "Slider height"
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:572
+#, php-format
+msgid "Write 100% for fullscreen or for example 600 (without px) for custom"
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:579
+msgid "Select the first featured post"
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:589
+msgid "Select the second featured post"
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:599
+msgid "Select Slider layout"
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:608
+msgid "Active Fixed Slider"
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:617
+msgid "Active Parallax"
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:618
+msgid "Look, it's on!"
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:626
+msgid "Slider Shapes"
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:627
+msgid "You can set different designs for your slider"
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:638
+msgid "Remove Sliders from Mobile Phone View"
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:639
+msgid ""
+"Check this option if you want to remove sliders from mobile view for this "
+"page."
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:655
+msgid "Page Options & Style"
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:662
+msgid "Page Content Background"
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:663
+msgid "Background color of content in this page "
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:671
+msgid "Fixed header"
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:672
+msgid "Check this to activate fixed header"
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:673
+msgid ""
+"After activate this, the header will be fixed position, transparent above "
+"the content."
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:679
+msgid "Header Color Style for Header 1"
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:680
+msgid "Select Light for light colors in header and white logo"
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:688
+msgid "Use menu as one page menu"
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:689
+msgid "Check this to activate one page menu"
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:690
+msgid ""
+"After activate this, to the sections of visual composer add a class "
+"attribute for ex: \"services\" and set the link of the menu item: #services"
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:697
+msgid "Fullscreen Sections Sliding"
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:698
+msgid "Check to use visual sections as fullscreen sections"
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:706
+msgid "Use Featured Image as Photo"
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:732
+#: includes/core/simple_metaboxes.php:740
+msgid "General Settings"
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:770
+#: includes/core/simple_metaboxes.php:860
+msgid "Staff Position"
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:776 includes/core/simple_options.php:3277
+msgid "Facebook Link"
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:783 includes/core/simple_options.php:3282
+msgid "Twitter Link"
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:790
+msgid "Google Link"
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:797
+msgid "Pinterest Link"
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:804 includes/core/simple_options.php:3307
+msgid "Linkedin Link"
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:811 includes/core/simple_options.php:3319
+msgid "Instagram Link"
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:818
+msgid "Mail Link"
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:870
+msgid "Testimonial Options"
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:898
+msgid "Active Fullscreen Innovative Single Post"
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:905
+msgid "Fullscreen Post Effect"
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:914
+msgid "Fullscreen Post Effect Delay"
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:919
+msgid "Fullscreen Post Position"
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:927
+msgid "Future date for upcoming events"
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:939
+msgid "Blog Options"
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:955
+msgid "Video / Audio Link or Iframe"
+msgstr ""
+
+#: includes/core/simple_metaboxes.php:965
+msgid "Blog Post Format"
+msgstr ""
+
+#: includes/core/simple_options.php:35 includes/core/simple_options.php:36
+msgid "The Simple"
+msgstr ""
+
+#: includes/core/simple_options.php:132
+msgid "The Simple ofers a wide range of website tempaltes."
+msgstr ""
+
+#: includes/core/simple_options.php:134
+msgid "The Simple ofers a wide range of website tempaltes. "
+msgstr ""
+
+#: includes/core/simple_options.php:144
+msgid "General Options"
+msgstr ""
+
+#: includes/core/simple_options.php:145
+msgid ""
+"In this section you can customize basic options like logo, responsive etc..."
+msgstr ""
+
+#: includes/core/simple_options.php:153
+msgid "Responsive Layout"
+msgstr ""
+
+#: includes/core/simple_options.php:154
+msgid "Switch on to active responsive layout"
+msgstr ""
+
+#: includes/core/simple_options.php:161
+msgid "Upload Logo"
+msgstr ""
+
+#: includes/core/simple_options.php:162
+msgid "Upload here the logo that is placed in top of the page "
+msgstr ""
+
+#: includes/core/simple_options.php:163
+msgid "Upload any media using the WordPress native uploader"
+msgstr ""
+
+#: includes/core/simple_options.php:170
+msgid "Upload Logo Light"
+msgstr ""
+
+#: includes/core/simple_options.php:171
+msgid "Upload here the logo that is placed in top of the page (Light Version) "
+msgstr ""
+
+#: includes/core/simple_options.php:183
+msgid "Logo Height"
+msgstr ""
+
+#: includes/core/simple_options.php:195
+msgid "Smooth Scroll"
+msgstr ""
+
+#: includes/core/simple_options.php:196
+msgid "Switch on to active smooth scrolling"
+msgstr ""
+
+#: includes/core/simple_options.php:203
+msgid "Page Transition"
+msgstr ""
+
+#: includes/core/simple_options.php:204
+msgid "Switch on to active smooth page transition"
+msgstr ""
+
+#: includes/core/simple_options.php:211 includes/core/simple_options.php:241
+msgid "Page Transition In Effect"
+msgstr ""
+
+#: includes/core/simple_options.php:233
+msgid "Page Transition In Duration"
+msgstr ""
+
+#: includes/core/simple_options.php:263
+msgid "Page Transition OUT Duration"
+msgstr ""
+
+#: includes/core/simple_options.php:271
+msgid "Select Special Pages"
+msgstr ""
+
+#: includes/core/simple_options.php:281
+msgid "Select Frontpage"
+msgstr ""
+
+#: includes/core/simple_options.php:282
+msgid "Frontpage is the page that you want to show in the home"
+msgstr ""
+
+#: includes/core/simple_options.php:283
+msgid "Select one of the created pages to use it as frontpage"
+msgstr ""
+
+#: includes/core/simple_options.php:292
+msgid "Select Blog Page"
+msgstr ""
+
+#: includes/core/simple_options.php:293
+msgid "Blogpage is the page that you want to show the blog posts"
+msgstr ""
+
+#: includes/core/simple_options.php:294
+msgid "Select one of the created pages to use as blog"
+msgstr ""
+
+#: includes/core/simple_options.php:302
+msgid "Select Coming Soon Page"
+msgstr ""
+
+#: includes/core/simple_options.php:303
+msgid "Select one page that you want to use as comingsoon or maintenance page"
+msgstr ""
+
+#: includes/core/simple_options.php:316
+msgid "404 error message"
+msgstr ""
+
+#: includes/core/simple_options.php:317
+msgid "Text to be placed in 404 page"
+msgstr ""
+
+#: includes/core/simple_options.php:325
+msgid "404 Page background"
+msgstr ""
+
+#: includes/core/simple_options.php:326
+msgid "404 page background with image, color, etc."
+msgstr ""
+
+#: includes/core/simple_options.php:333
+msgid "Tracking Code / Custom CSS / Custom JS"
+msgstr ""
+
+#: includes/core/simple_options.php:341
+msgid "Tracking Code"
+msgstr ""
+
+#: includes/core/simple_options.php:342 includes/core/simple_options.php:363
+msgid "Paste your JS code here."
+msgstr ""
+
+#: includes/core/simple_options.php:352
+msgid "Custom CSS Code"
+msgstr ""
+
+#: includes/core/simple_options.php:353
+msgid "Paste your CSS code here."
+msgstr ""
+
+#: includes/core/simple_options.php:362
+msgid "Custom JS Code"
+msgstr ""
+
+#: includes/core/simple_options.php:389
+msgid "Header Options"
+msgstr ""
+
+#: includes/core/simple_options.php:395
+msgid "General"
+msgstr ""
+
+#: includes/core/simple_options.php:432
+msgid "Header Style"
+msgstr ""
+
+#: includes/core/simple_options.php:433
+msgid "Select the style for the header"
+msgstr ""
+
+#: includes/core/simple_options.php:441
+msgid "Make Transparency Header"
+msgstr ""
+
+#: includes/core/simple_options.php:451
+msgid "Make the header with different shape"
+msgstr ""
+
+#: includes/core/simple_options.php:462
+msgid "Gradient transparency for the header"
+msgstr ""
+
+#: includes/core/simple_options.php:473
+msgid "Menu Overlay Fullscreen BG Color"
+msgstr ""
+
+#: includes/core/simple_options.php:487
+msgid "Header 6 Navigation BG Color"
+msgstr ""
+
+#: includes/core/simple_options.php:504
+msgid "Header 6 Navigation Height"
+msgstr ""
+
+#: includes/core/simple_options.php:514
+msgid "Make transparent this header"
+msgstr ""
+
+#: includes/core/simple_options.php:515
+msgid "Switch On to enable transparency"
+msgstr ""
+
+#: includes/core/simple_options.php:529
+msgid "Header 7 Side Menu Width"
+msgstr ""
+
+#: includes/core/simple_options.php:543
+msgid "Header 7 Side Menu Inner Padding"
+msgstr ""
+
+#: includes/core/simple_options.php:544
+msgid "Adjust side menu padding "
+msgstr ""
+
+#: includes/core/simple_options.php:546 includes/core/simple_options.php:563
+#: includes/core/simple_options.php:818 includes/core/simple_options.php:838
+#: includes/core/simple_options.php:1773 includes/core/simple_options.php:1791
+#: includes/simple-slider/simple_slider_options.php:136
+msgid "Unit: px"
+msgstr ""
+
+#: includes/core/simple_options.php:560
+msgid "Header 7 Side Menu Inner Margin beetwen logo/menu/widgets"
+msgstr ""
+
+#: includes/core/simple_options.php:561
+msgid "Adjust margin beetween side menu elements logog/menu/widgets "
+msgstr ""
+
+#: includes/core/simple_options.php:568
+msgid "Header 7 Side Menu Position"
+msgstr ""
+
+#: includes/core/simple_options.php:569
+msgid "Select the fixed position for the side navigation"
+msgstr ""
+
+#: includes/core/simple_options.php:585
+msgid "Add border to side header style"
+msgstr ""
+
+#: includes/core/simple_options.php:586
+msgid "Border for side left/right header style"
+msgstr ""
+
+#: includes/core/simple_options.php:595
+msgid "Add colored border in top of Header"
+msgstr ""
+
+#: includes/core/simple_options.php:596
+msgid "Border with theme color in top of Left/Right header"
+msgstr ""
+
+#: includes/core/simple_options.php:605
+msgid "Transparent with padding header"
+msgstr ""
+
+#: includes/core/simple_options.php:606
+msgid "Transparent Left/Right header above the content with padding "
+msgstr ""
+
+#: includes/core/simple_options.php:616
+msgid "Border Top & bottom for navigation"
+msgstr ""
+
+#: includes/core/simple_options.php:633
+msgid "Header Height"
+msgstr ""
+
+#: includes/core/simple_options.php:647 includes/core/simple_options.php:1268
+#: includes/simple-slider/simple_slider_options.php:13
+msgid "Background"
+msgstr ""
+
+#: includes/core/simple_options.php:648 includes/core/simple_options.php:1190
+msgid "Header background with image, color, etc."
+msgstr ""
+
+#: includes/core/simple_options.php:658
+msgid "Show Search"
+msgstr ""
+
+#: includes/core/simple_options.php:659
+msgid "Show search in the right of header"
+msgstr ""
+
+#: includes/core/simple_options.php:660
+msgid "Check this if you want the search field in the right part of the header"
+msgstr ""
+
+#: includes/core/simple_options.php:667
+msgid "Show Cart Icon"
+msgstr ""
+
+#: includes/core/simple_options.php:668
+msgid "Show cart in the right of header"
+msgstr ""
+
+#: includes/core/simple_options.php:669
+msgid ""
+"Check this if you want the cart in the right part of the header (woocommerce "
+"must be installed)"
+msgstr ""
+
+#: includes/core/simple_options.php:676
+msgid "Remove container from header"
+msgstr ""
+
+#: includes/core/simple_options.php:677
+msgid "Cant use with left menu"
+msgstr ""
+
+#: includes/core/simple_options.php:678
+msgid ""
+"By checking this the header container should be removed and transformed in "
+"fullwidth header"
+msgstr ""
+
+#: includes/core/simple_options.php:685
+msgid "Add button to header"
+msgstr ""
+
+#: includes/core/simple_options.php:686
+msgid "Add a button in header after the menu"
+msgstr ""
+
+#: includes/core/simple_options.php:694
+msgid "Header Button"
+msgstr ""
+
+#: includes/core/simple_options.php:702
+msgid "Header Button Link"
+msgstr ""
+
+#: includes/core/simple_options.php:710
+msgid "Header Borders"
+msgstr ""
+
+#: includes/core/simple_options.php:712
+msgid "Add Borders for header"
+msgstr ""
+
+#: includes/core/simple_options.php:719
+msgid "Header Border Bottom"
+msgstr ""
+
+#: includes/core/simple_options.php:721
+msgid "Add Border Bottom for header"
+msgstr ""
+
+#: includes/core/simple_options.php:728
+msgid "Header Shadow"
+msgstr ""
+
+#: includes/core/simple_options.php:729
+msgid "Select one shadow style or leave it without shadow"
+msgstr ""
+
+#: includes/core/simple_options.php:730
+msgid "Isnt compatible with all headers"
+msgstr ""
+
+#: includes/core/simple_options.php:739
+msgid "Show Responsive Menu Dropdown"
+msgstr ""
+
+#: includes/core/simple_options.php:746
+msgid "Responsive menu style"
+msgstr ""
+
+#: includes/core/simple_options.php:756
+msgid "Show header tools in responsive (Mobile)"
+msgstr ""
+
+#: includes/core/simple_options.php:757
+msgid "Extra Nav, Shop Cart etc..."
+msgstr ""
+
+#: includes/core/simple_options.php:766
+msgid "Menu Options"
+msgstr ""
+
+#: includes/core/simple_options.php:771
+msgid "Menu Item Typography"
+msgstr ""
+
+#: includes/core/simple_options.php:788
+msgid "Select the appropiate font style for the menu"
+msgstr ""
+
+#: includes/core/simple_options.php:816
+msgid "Menu Items padding"
+msgstr ""
+
+#: includes/core/simple_options.php:817
+msgid "Adjust padding beetwen menu items "
+msgstr ""
+
+#: includes/core/simple_options.php:836
+msgid "Menu Items Margin"
+msgstr ""
+
+#: includes/core/simple_options.php:837
+msgid "Adjust margin beetwen menu items "
+msgstr ""
+
+#: includes/core/simple_options.php:847
+msgid "Dropdown Options"
+msgstr ""
+
+#: includes/core/simple_options.php:856
+msgid "Dropdown Width"
+msgstr ""
+
+#: includes/core/simple_options.php:867
+msgid "Dropdown Background Color"
+msgstr ""
+
+#: includes/core/simple_options.php:868
+msgid "Background Color for the dropdown in the menu"
+msgstr ""
+
+#: includes/core/simple_options.php:880
+msgid "Dropdown Right Border color"
+msgstr ""
+
+#: includes/core/simple_options.php:881
+msgid "Dropdown right border color for navigation"
+msgstr ""
+
+#: includes/core/simple_options.php:888
+msgid "Dropdown typography"
+msgstr ""
+
+#: includes/core/simple_options.php:902 includes/core/simple_options.php:929
+msgid "Select the appropiate font style for the megamenu column title"
+msgstr ""
+
+#: includes/core/simple_options.php:915
+msgid "Megamenu title"
+msgstr ""
+
+#: includes/core/simple_options.php:943
+msgid "Cart Dropdown in header button style"
+msgstr ""
+
+#: includes/core/simple_options.php:954
+msgid "Top Widgetized Area"
+msgstr ""
+
+#: includes/core/simple_options.php:959
+msgid "Show Top Navigation"
+msgstr ""
+
+#: includes/core/simple_options.php:960
+msgid "Switch On to enable top navigation"
+msgstr ""
+
+#: includes/core/simple_options.php:967
+msgid "Make Transparency TOP WIDGETIZED"
+msgstr ""
+
+#: includes/core/simple_options.php:977
+msgid "Background Color"
+msgstr ""
+
+#: includes/core/simple_options.php:987
+msgid "Top Navigation Border Top"
+msgstr ""
+
+#: includes/core/simple_options.php:995
+msgid "Add Border top for the top navigation"
+msgstr ""
+
+#: includes/core/simple_options.php:1006
+msgid "Top Navigation Border Bottom"
+msgstr ""
+
+#: includes/core/simple_options.php:1014
+msgid "Add Border bottom for the top navigation"
+msgstr ""
+
+#: includes/core/simple_options.php:1025
+msgid "Top Navigation Border Bottom in Container"
+msgstr ""
+
+#: includes/core/simple_options.php:1033
+msgid "Add Border bottom for the top navigation container"
+msgstr ""
+
+#: includes/core/simple_options.php:1044
+msgid "Typography"
+msgstr ""
+
+#: includes/core/simple_options.php:1059
+msgid "Select the appropiate font style for top nav"
+msgstr ""
+
+#: includes/core/simple_options.php:1075
+msgid "Top Nav Height"
+msgstr ""
+
+#: includes/core/simple_options.php:1086 includes/core/simple_options.php:1291
+msgid "Default Page Header"
+msgstr ""
+
+#: includes/core/simple_options.php:1140
+msgid "Page header Border Bottom"
+msgstr ""
+
+#: includes/core/simple_options.php:1148
+msgid "Add Border bottom for page header"
+msgstr ""
+
+#: includes/core/simple_options.php:1160
+msgid "Sticky Nav"
+msgstr ""
+
+#: includes/core/simple_options.php:1165
+msgid "Sticky Header"
+msgstr ""
+
+#: includes/core/simple_options.php:1166
+msgid "Switch on to active sticky header (fixed position on header)"
+msgstr ""
+
+#: includes/core/simple_options.php:1176
+msgid "Sticky Header Height"
+msgstr ""
+
+#: includes/core/simple_options.php:1189
+msgid "Sticky Background"
+msgstr ""
+
+#: includes/core/simple_options.php:1200
+msgid "Sticky Logo"
+msgstr ""
+
+#: includes/core/simple_options.php:1201
+msgid "Remove the Logo from the main Header and shows only on stiky"
+msgstr ""
+
+#: includes/core/simple_options.php:1212
+msgid "Styling Options"
+msgstr ""
+
+#: includes/core/simple_options.php:1218
+msgid "Primary Color"
+msgstr ""
+
+#: includes/core/simple_options.php:1219
+msgid "Color for links, highlighted text and other"
+msgstr ""
+
+#: includes/core/simple_options.php:1228
+msgid "Body Font Color"
+msgstr ""
+
+#: includes/core/simple_options.php:1229
+msgid "Base font color for the main content, in light sections"
+msgstr ""
+
+#: includes/core/simple_options.php:1238
+msgid "Headings Font Color"
+msgstr ""
+
+#: includes/core/simple_options.php:1239
+msgid "Base font color for headings, in light sections"
+msgstr ""
+
+#: includes/core/simple_options.php:1247
+msgid "Base Border Color"
+msgstr ""
+
+#: includes/core/simple_options.php:1248
+msgid "Base border color around the theme"
+msgstr ""
+
+#: includes/core/simple_options.php:1257
+msgid "Highlighted Background"
+msgstr ""
+
+#: includes/core/simple_options.php:1258
+msgid "Highlighted Background in main content, white sections"
+msgstr ""
+
+#: includes/core/simple_options.php:1269
+msgid "Add a background to body"
+msgstr ""
+
+#: includes/core/simple_options.php:1278
+msgid "Content Background"
+msgstr ""
+
+#: includes/core/simple_options.php:1279
+msgid "Add a background to content"
+msgstr ""
+
+#: includes/core/simple_options.php:1296
+msgid "Normal Style No Subtitle Title Typography"
+msgstr ""
+
+#: includes/core/simple_options.php:1321
+msgid "Normal Style With Subtitle Title Typography"
+msgstr ""
+
+#: includes/core/simple_options.php:1346
+msgid "Normal Style With Subtitle Subtitle Typography"
+msgstr ""
+
+#: includes/core/simple_options.php:1371
+msgid "Centered Style No Subtitle Title Typography"
+msgstr ""
+
+#: includes/core/simple_options.php:1399
+msgid "Centered Style With Subtitle Title Typography"
+msgstr ""
+
+#: includes/core/simple_options.php:1428
+msgid "Centered Style With Subtitle Subtitle Typography"
+msgstr ""
+
+#: includes/core/simple_options.php:1457
+msgid "Page Header Design Style"
+msgstr ""
+
+#: includes/core/simple_options.php:1458
+msgid "Select the design style for the default page header"
+msgstr ""
+
+#: includes/core/simple_options.php:1465
+msgid "Page Header with padding style title bg color"
+msgstr ""
+
+#: includes/core/simple_options.php:1477
+msgid "Page Header with padding style subtitle bg color"
+msgstr ""
+
+#: includes/core/simple_options.php:1489
+msgid "Page Header with padding style subtitle font color"
+msgstr ""
+
+#: includes/core/simple_options.php:1502
+msgid "Footer Styling"
+msgstr ""
+
+#: includes/core/simple_options.php:1507
+msgid "Footer Headings Typography"
+msgstr ""
+
+#: includes/core/simple_options.php:1534
+msgid "Footer Body Font Color"
+msgstr ""
+
+#: includes/core/simple_options.php:1535
+msgid "Select the font color for text in footer"
+msgstr ""
+
+#: includes/core/simple_options.php:1544
+msgid "Footer links font Color"
+msgstr ""
+
+#: includes/core/simple_options.php:1545
+msgid "Select the font color for links"
+msgstr ""
+
+#: includes/core/simple_options.php:1554
+msgid "Footer Background"
+msgstr ""
+
+#: includes/core/simple_options.php:1555
+msgid "Background for the footer main part"
+msgstr ""
+
+#: includes/core/simple_options.php:1563
+msgid "Copyright Background Color"
+msgstr ""
+
+#: includes/core/simple_options.php:1564
+msgid "Color for the latest part of the footer"
+msgstr ""
+
+#: includes/core/simple_options.php:1573
+msgid "Footer Border Top"
+msgstr ""
+
+#: includes/core/simple_options.php:1582 includes/core/simple_options.php:1817
+msgid "Add Border top for footer"
+msgstr ""
+
+#: includes/core/simple_options.php:1595
+msgid "Social Icons Circle BG"
+msgstr ""
+
+#: includes/core/simple_options.php:1596
+msgid "Circle background color"
+msgstr ""
+
+#: includes/core/simple_options.php:1605
+msgid "Social Icons Circle Icon Color"
+msgstr ""
+
+#: includes/core/simple_options.php:1606
+msgid "Circle icon color"
+msgstr ""
+
+#: includes/core/simple_options.php:1618
+msgid "Blog Styling"
+msgstr ""
+
+#: includes/core/simple_options.php:1623
+msgid "Blog Title Typography"
+msgstr ""
+
+#: includes/core/simple_options.php:1651
+msgid "Blog Info List Typography"
+msgstr ""
+
+#: includes/core/simple_options.php:1676
+msgid "Blog Info List Icon Size"
+msgstr ""
+
+#: includes/core/simple_options.php:1699
+msgid "Active Timeline (or for masonry) Box Shadow"
+msgstr ""
+
+#: includes/core/simple_options.php:1706
+msgid "Timeline (or masonry) post box bg color"
+msgstr ""
+
+#: includes/core/simple_options.php:1714
+msgid "Fullscreen Blog Content Box BG"
+msgstr ""
+
+#: includes/core/simple_options.php:1729
+msgid "Sidebar Styling"
+msgstr ""
+
+#: includes/core/simple_options.php:1734
+msgid "Widget Title"
+msgstr ""
+
+#: includes/core/simple_options.php:1772
+msgid "Widget Title Margin Bottom"
+msgstr ""
+
+#: includes/core/simple_options.php:1790
+msgid "Widget Margin Bottom"
+msgstr ""
+
+#: includes/core/simple_options.php:1799
+msgid "Sidebar Tagcloud Background"
+msgstr ""
+
+#: includes/core/simple_options.php:1808
+msgid "Sidebar Tagcloud Border"
+msgstr ""
+
+#: includes/core/simple_options.php:1829
+msgid "Sidebar Tagcloud Font color"
+msgstr ""
+
+#: includes/core/simple_options.php:1841
+msgid "Sliders Styling"
+msgstr ""
+
+#: includes/core/simple_options.php:1847
+msgid "Simple Slider Wrapper Background Color"
+msgstr ""
+
+#: includes/core/simple_options.php:1858
+msgid "Filters Styling"
+msgstr ""
+
+#: includes/core/simple_options.php:1863
+msgid "Portfolio Filter & FAQ Filter Basic Typography"
+msgstr ""
+
+#: includes/core/simple_options.php:1891
+msgid "Portfolio Filter & FAQ Filter Basic Typography (Active)"
+msgstr ""
+
+#: includes/core/simple_options.php:1901
+msgid "Portfolio Filter Fullwidth Background Color"
+msgstr ""
+
+#: includes/core/simple_options.php:1911
+msgid "Portfolio Filter Fullwidth Item color"
+msgstr ""
+
+#: includes/core/simple_options.php:1924
+msgid "Portfolio Filter Fullwidth Item hover color "
+msgstr ""
+
+#: includes/core/simple_options.php:1939
+msgid "Portfolio Styling"
+msgstr ""
+
+#: includes/core/simple_options.php:1945
+msgid "Portfolio Overlay BG Color "
+msgstr ""
+
+#: includes/core/simple_options.php:1956
+msgid "Portfolio Overlay Title Typography"
+msgstr ""
+
+#: includes/core/simple_options.php:1982
+msgid "Portfolio Overlay Subtitle Typography"
+msgstr ""
+
+#: includes/core/simple_options.php:2009
+msgid "Portfolio Grayscale Background"
+msgstr ""
+
+#: includes/core/simple_options.php:2018
+msgid "Portfolio Grayscale Title Typography"
+msgstr ""
+
+#: includes/core/simple_options.php:2043
+msgid "Portfolio Grayscale Subtitle Color"
+msgstr ""
+
+#: includes/core/simple_options.php:2053
+msgid "Portfolio Basic Overlay Background"
+msgstr ""
+
+#: includes/core/simple_options.php:2066
+msgid "Portfolio Basic Icon Color"
+msgstr ""
+
+#: includes/core/simple_options.php:2075
+msgid "Portfolio Basic Title Typography"
+msgstr ""
+
+#: includes/core/simple_options.php:2102
+msgid "Portfolio Basic Subtitle Typography"
+msgstr ""
+
+#: includes/core/simple_options.php:2132
+msgid "Elements Styling"
+msgstr ""
+
+#: includes/core/simple_options.php:2137
+msgid "Toggle title typography"
+msgstr ""
+
+#: includes/core/simple_options.php:2166
+msgid "Set the accordion background color"
+msgstr ""
+
+#: includes/core/simple_options.php:2176
+msgid "Activated Toggle Font Color"
+msgstr ""
+
+#: includes/core/simple_options.php:2187
+msgid "Set the tabs active state background color"
+msgstr ""
+
+#: includes/core/simple_options.php:2197
+msgid "Set the tabs active font color"
+msgstr ""
+
+#: includes/core/simple_options.php:2206
+msgid "Block Title Element (Column) Title"
+msgstr ""
+
+#: includes/core/simple_options.php:2236
+msgid "Block Title Element (Column) Subtitle"
+msgstr ""
+
+#: includes/core/simple_options.php:2263
+msgid "Block Title Element (Section) Title"
+msgstr ""
+
+#: includes/core/simple_options.php:2293
+msgid "Block Title Element (Section) Desc"
+msgstr ""
+
+#: includes/core/simple_options.php:2323
+msgid "Animated Counters Typography"
+msgstr ""
+
+#: includes/core/simple_options.php:2351
+msgid "Testimonial typography"
+msgstr ""
+
+#: includes/core/simple_options.php:2378
+msgid "Textbar title typography"
+msgstr ""
+
+#: includes/core/simple_options.php:2405
+msgid "Contact Form Elements Border"
+msgstr ""
+
+#: includes/core/simple_options.php:2415
+msgid "Buttons Styling"
+msgstr ""
+
+#: includes/core/simple_options.php:2431
+msgid "Overall Button Style"
+msgstr ""
+
+#: includes/core/simple_options.php:2438
+msgid "Overall button typography"
+msgstr ""
+
+#: includes/core/simple_options.php:2465
+msgid "Overall button background"
+msgstr ""
+
+#: includes/core/simple_options.php:2476
+msgid "Overall button border"
+msgstr ""
+
+#: includes/core/simple_options.php:2487
+msgid "Overall button hover Font Color"
+msgstr ""
+
+#: includes/core/simple_options.php:2496
+msgid "Overall button hover bg"
+msgstr ""
+
+#: includes/core/simple_options.php:2508
+msgid "Overall button hover border"
+msgstr ""
+
+#: includes/core/simple_options.php:2520
+msgid "Light button Font Color"
+msgstr ""
+
+#: includes/core/simple_options.php:2529
+msgid "Light button bg"
+msgstr ""
+
+#: includes/core/simple_options.php:2541
+msgid "Light button border"
+msgstr ""
+
+#: includes/core/simple_options.php:2553
+msgid "Light button hover Font Color"
+msgstr ""
+
+#: includes/core/simple_options.php:2562
+msgid "Light button hover bg"
+msgstr ""
+
+#: includes/core/simple_options.php:2574
+msgid "Light button hover border"
+msgstr ""
+
+#: includes/core/simple_options.php:2587
+msgid "Shop Styling"
+msgstr ""
+
+#: includes/core/simple_options.php:2593
+msgid "Shop Single Product Title"
+msgstr ""
+
+#: includes/core/simple_options.php:2612
+msgid "Select the appropiate font style for single product title"
+msgstr ""
+
+#: includes/core/simple_options.php:2623
+msgid "Shop item overlay"
+msgstr ""
+
+#: includes/core/simple_options.php:2638
+msgid "Typography Options"
+msgstr ""
+
+#: includes/core/simple_options.php:2643
+msgid "Body Font Style"
+msgstr ""
+
+#: includes/core/simple_options.php:2655 includes/core/simple_options.php:2687
+msgid "Select the appropiate font style for the body text"
+msgstr ""
+
+#: includes/core/simple_options.php:2671
+msgid "Headings font type"
+msgstr ""
+
+#: includes/core/simple_options.php:2700
+msgid "Heading 1 Font style"
+msgstr ""
+
+#: includes/core/simple_options.php:2712
+msgid "Select the appropiate font style for the h1 text"
+msgstr ""
+
+#: includes/core/simple_options.php:2722
+msgid "Heading 2 Font style"
+msgstr ""
+
+#: includes/core/simple_options.php:2735 includes/core/simple_options.php:2758
+#: includes/core/simple_options.php:2781 includes/core/simple_options.php:2804
+#: includes/core/simple_options.php:2827
+msgid "Select the appropiate font style for this heading"
+msgstr ""
+
+#: includes/core/simple_options.php:2745
+msgid "Heading 3 Font style"
+msgstr ""
+
+#: includes/core/simple_options.php:2768
+msgid "Heading 4 Font style"
+msgstr ""
+
+#: includes/core/simple_options.php:2791
+msgid "Heading 5 Font style"
+msgstr ""
+
+#: includes/core/simple_options.php:2814
+msgid "Heading 6 Font style"
+msgstr ""
+
+#: includes/core/simple_options.php:2838
+msgid "Footer Options"
+msgstr ""
+
+#: includes/core/simple_options.php:2843
+msgid "Footer Columns"
+msgstr ""
+
+#: includes/core/simple_options.php:2844
+msgid ""
+"Select how many columns do you want for the footer. Choose between 1, 2, 3 "
+"or 4 column layout."
+msgstr ""
+
+#: includes/core/simple_options.php:2872
+msgid "Remove container from footer"
+msgstr ""
+
+#: includes/core/simple_options.php:2873
+msgid ""
+"By checking this the footer container should be removed and transformed in "
+"fullwidth footer"
+msgstr ""
+
+#: includes/core/simple_options.php:2880
+msgid "Copyright Text in the end of footer"
+msgstr ""
+
+#: includes/core/simple_options.php:2881
+msgid "Text have to be placed in the copyright bar"
+msgstr ""
+
+#: includes/core/simple_options.php:2888
+msgid "Show Footer"
+msgstr ""
+
+#: includes/core/simple_options.php:2896
+msgid "Show Copyright"
+msgstr ""
+
+#: includes/core/simple_options.php:2908
+msgid "Blog Config"
+msgstr ""
+
+#: includes/core/simple_options.php:2913
+msgid "Blog Style"
+msgstr ""
+
+#: includes/core/simple_options.php:2914
+msgid "Select the blog style to be used"
+msgstr ""
+
+#: includes/core/simple_options.php:2921
+msgid "Blog Masonry Columns"
+msgstr ""
+
+#: includes/core/simple_options.php:2957
+msgid "Single Post Layout"
+msgstr ""
+
+#: includes/core/simple_options.php:2958 includes/core/simple_options.php:3189
+msgid "Select the default single post sidebar position"
+msgstr ""
+
+#: includes/core/simple_options.php:2972
+msgid "Active Post Like"
+msgstr ""
+
+#: includes/core/simple_options.php:2980
+msgid "Social Shares on Posts"
+msgstr ""
+
+#: includes/core/simple_options.php:2996
+msgid "Show author at blog post"
+msgstr ""
+
+#: includes/core/simple_options.php:3003
+msgid "Show date at blog post"
+msgstr ""
+
+#: includes/core/simple_options.php:3010
+msgid "Show comments count at blog post"
+msgstr ""
+
+#: includes/core/simple_options.php:3017
+msgid "Show tags at blog post"
+msgstr ""
+
+#: includes/core/simple_options.php:3028
+msgid "Portfolio Config"
+msgstr ""
+
+#: includes/core/simple_options.php:3033
+msgid "Portfolio Slug"
+msgstr ""
+
+#: includes/core/simple_options.php:3039
+msgid "Custom fields Parameters"
+msgstr ""
+
+#: includes/core/simple_options.php:3040
+msgid ""
+"Create unlimited custom fields. Add values in respetive single portfolio"
+msgstr ""
+
+#: includes/core/simple_options.php:3045
+msgid "Active Portfolio Item Like"
+msgstr ""
+
+#: includes/core/simple_options.php:3060
+msgid "Overall site layout"
+msgstr ""
+
+#: includes/core/simple_options.php:3061
+msgid "Select overall ste pages layout"
+msgstr ""
+
+#: includes/core/simple_options.php:3067
+msgid "Pages Default Layout"
+msgstr ""
+
+#: includes/core/simple_options.php:3068
+msgid "Select default layout for pages. You can overwrite it in Page Options"
+msgstr ""
+
+#: includes/core/simple_options.php:3088
+msgid "Page Container Width"
+msgstr ""
+
+#: includes/core/simple_options.php:3101
+msgid "Page Container Width with percentage"
+msgstr ""
+
+#: includes/core/simple_options.php:3103
+msgid ""
+"If you set the width in percentage, the page container width in pixel should "
+"be used as max-width"
+msgstr ""
+
+#: includes/core/simple_options.php:3114
+msgid "Boxed Container Width"
+msgstr ""
+
+#: includes/core/simple_options.php:3129
+msgid "Boxed Container Width with percentage"
+msgstr ""
+
+#: includes/core/simple_options.php:3132
+msgid ""
+"If you set the width in percentage, the boxed container width in pixel "
+"should be used as max-width"
+msgstr ""
+
+#: includes/core/simple_options.php:3137
+msgid "Boxed Container Margin"
+msgstr ""
+
+#: includes/core/simple_options.php:3138
+msgid "Boxed Container Top/Bottom Margin"
+msgstr ""
+
+#: includes/core/simple_options.php:3155
+msgid "Boxed Container Shadow"
+msgstr ""
+
+#: includes/core/simple_options.php:3164
+msgid "Boxed Container Border"
+msgstr ""
+
+#: includes/core/simple_options.php:3171
+msgid "Add Border for boxed container"
+msgstr ""
+
+#: includes/core/simple_options.php:3182
+#: includes/register/register_sidebars.php:130
+msgid "Extra Side Navigation"
+msgstr ""
+
+#: includes/core/simple_options.php:3188
+msgid "Extra Navigation Position"
+msgstr ""
+
+#: includes/core/simple_options.php:3202
+msgid "Page Builder Row Margin Bottom"
+msgstr ""
+
+#: includes/core/simple_options.php:3203
+msgid "Margin bottom for the ROW in Page builder"
+msgstr ""
+
+#: includes/core/simple_options.php:3220
+msgid "Inner Page Content Padding"
+msgstr ""
+
+#: includes/core/simple_options.php:3221
+msgid "Change padding of the inner page content"
+msgstr ""
+
+#: includes/core/simple_options.php:3239
+msgid "Add a outter padding"
+msgstr ""
+
+#: includes/core/simple_options.php:3250
+msgid "Clients"
+msgstr ""
+
+#: includes/core/simple_options.php:3255
+msgid "Add/Edit Clients Dark Version"
+msgstr ""
+
+#: includes/core/simple_options.php:3256 includes/core/simple_options.php:3263
+msgid "Upload clients logo here"
+msgstr ""
+
+#: includes/core/simple_options.php:3262
+msgid "Add/Edit Clients Light Version"
+msgstr ""
+
+#: includes/core/simple_options.php:3272
+msgid "Social Media"
+msgstr ""
+
+#: includes/core/simple_options.php:3287
+msgid "Flickr Link"
+msgstr ""
+
+#: includes/core/simple_options.php:3292
+msgid "Foursquare Link"
+msgstr ""
+
+#: includes/core/simple_options.php:3297
+msgid "Google Plus Link"
+msgstr ""
+
+#: includes/core/simple_options.php:3302
+msgid "Dribbble Link"
+msgstr ""
+
+#: includes/core/simple_options.php:3313
+msgid "Youtube Link"
+msgstr ""
+
+#: includes/core/simple_options.php:3325
+msgid "Email Link"
+msgstr ""
+
+#: includes/core/simple_options.php:3332
+msgid "Custom Sidebars"
+msgstr ""
+
+#: includes/core/simple_options.php:3339
+msgid "Pages custom sidebars"
+msgstr ""
+
+#: includes/core/simple_options.php:3340
+msgid "Select all pages that you want a custom sidebar (widgetized area)"
+msgstr ""
+
+#: includes/core/simple_options.php:3348
+msgid "Categories custom sidebars"
+msgstr ""
+
+#: includes/core/simple_options.php:3349
+msgid "Select all categories that you want a custom sidebar (widgetized area)"
+msgstr ""
+
+#: includes/core/simple_options.php:3357
+msgid "Import / Export (Dummy Data)"
+msgstr ""
+
+#: includes/core/simple_options.php:3398
+msgid "Simple Import"
+msgstr ""
+
+#: includes/core/simple_options.php:3488
+msgid "Section via hook"
+msgstr ""
+
+#: includes/core/simple_options.php:3489
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the "
+"sections array. Can be used by child themes to add/remove sections from the "
+"options.</p>"
+msgstr ""
+
+#: includes/core/simple_required_plugins.php:163
+#: plugins/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: includes/core/simple_required_plugins.php:164
+#: plugins/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#: includes/core/simple_required_plugins.php:165
+#: plugins/class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: includes/core/simple_required_plugins.php:166
+#: plugins/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: includes/core/simple_required_plugins.php:177
+#: plugins/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: includes/core/simple_required_plugins.php:178
+#: plugins/class-tgm-plugin-activation.php:387
+#: plugins/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: includes/core/simple_required_plugins.php:179
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: includes/core/simple_slideshow.php:190
+#: includes/core/simple_slideshow.php:272
+#: includes/simple-slider/simple_slider.php:48
+msgid "PREV"
+msgstr ""
+
+#: includes/core/simple_slideshow.php:194
+#: includes/core/simple_slideshow.php:276
+#: includes/simple-slider/simple_slider.php:52
+msgid "NEXT"
+msgstr ""
+
+#: includes/envato-wordpress-toolkit-library/class-envato-protected-api.php:67
+msgid "Please enter your Envato Marketplace Username."
+msgstr ""
+
+#: includes/envato-wordpress-toolkit-library/class-envato-protected-api.php:71
+msgid "Please enter your Envato Marketplace API Key."
+msgstr ""
+
+#: includes/envato-wordpress-toolkit-library/class-envato-protected-api.php:96
+msgid "The API \"set\" is a required parameter."
+msgstr ""
+
+#: includes/envato-wordpress-toolkit-library/class-envato-protected-api.php:167
+msgid "The Envato Marketplace \"item ID\" is a required parameter."
+msgstr ""
+
+#: includes/envato-wordpress-toolkit-library/class-envato-wordpress-theme-upgrader.php:288
+msgid "Downloading upgrade package from the Envato API&#8230;"
+msgstr ""
+
+#: includes/envato-wordpress-toolkit-library/class-envato-wordpress-theme-upgrader.php:299
+msgid "Downloading install package from the Envato API&#8230;"
+msgstr ""
+
+#: includes/register/register_sidebars.php:9 sidebar.php:20
+msgid "Sidebar Blog"
+msgstr ""
+
+#: includes/register/register_sidebars.php:18 sidebar.php:25
+msgid "Sidebar Pages"
+msgstr ""
+
+#: includes/register/register_sidebars.php:26 sidebar.php:23
+msgid "Sidebar Portfolio"
+msgstr ""
+
+#: includes/register/register_sidebars.php:35
+msgid "Top Header Left"
+msgstr ""
+
+#: includes/register/register_sidebars.php:44
+msgid "Top Header Right"
+msgstr ""
+
+#: includes/register/register_sidebars.php:69
+msgid "Copyright Footer Sidebar"
+msgstr ""
+
+#: includes/register/register_sidebars.php:88 sidebar.php:31
+msgid "Page"
+msgstr ""
+
+#: includes/register/register_sidebars.php:113 sidebar.php:35
+msgid "Category"
+msgstr ""
+
+#: includes/register/register_sidebars.php:141 sidebar.php:27
+msgid "Sidebar Woocommerce"
+msgstr ""
+
+#: includes/register/register_sidebars.php:152
+msgid "Header Widgetized Area"
+msgstr ""
+
+#: includes/register/register_sidebars.php:163
+msgid "After Navigation Area"
+msgstr ""
+
+#: includes/simple-slider/simple_slider_options.php:19
+msgid "Background Type"
+msgstr ""
+
+#: includes/simple-slider/simple_slider_options.php:29
+msgid "Background Image / Color"
+msgstr ""
+
+#: includes/simple-slider/simple_slider_options.php:30
+msgid "Page Header background with image"
+msgstr ""
+
+#: includes/simple-slider/simple_slider_options.php:38
+msgid "MP4 video Url"
+msgstr ""
+
+#: includes/simple-slider/simple_slider_options.php:46
+msgid "Webm video Url"
+msgstr ""
+
+#: includes/simple-slider/simple_slider_options.php:54
+msgid "OGG video Url"
+msgstr ""
+
+#: includes/simple-slider/simple_slider_options.php:62
+msgid "Image to replace video on mobile"
+msgstr ""
+
+#: includes/simple-slider/simple_slider_options.php:70
+msgid "Background Color Overlay"
+msgstr ""
+
+#: includes/simple-slider/simple_slider_options.php:71
+msgid "Use a bg overlay"
+msgstr ""
+
+#: includes/simple-slider/simple_slider_options.php:97
+msgid "Title Style"
+msgstr ""
+
+#: includes/simple-slider/simple_slider_options.php:120
+msgid "Title Background"
+msgstr ""
+
+#: includes/simple-slider/simple_slider_options.php:134
+msgid "Title Padding"
+msgstr ""
+
+#: includes/simple-slider/simple_slider_options.php:135
+msgid " "
+msgstr ""
+
+#: includes/simple-slider/simple_slider_options.php:142
+msgid "Title animation"
+msgstr ""
+
+#: includes/simple-slider/simple_slider_options.php:158
+msgid "Description Style"
+msgstr ""
+
+#: includes/simple-slider/simple_slider_options.php:178
+msgid "Description animation"
+msgstr ""
+
+#: includes/simple-slider/simple_slider_options.php:188
+msgid "Image On Top"
+msgstr ""
+
+#: includes/simple-slider/simple_slider_options.php:189
+msgid "Add an image on top of texts"
+msgstr ""
+
+#: includes/simple-slider/simple_slider_options.php:197
+msgid "Image Media w/ URL"
+msgstr ""
+
+#: includes/simple-slider/simple_slider_options.php:206
+msgid "Image Alignment"
+msgstr ""
+
+#: includes/simple-slider/simple_slider_options.php:218
+msgid "Image Dimensions (Width/Height)"
+msgstr ""
+
+#: includes/simple-slider/simple_slider_options.php:229
+#: includes/simple-slider/simple_slider_options.php:251
+msgid "Button Label"
+msgstr ""
+
+#: includes/simple-slider/simple_slider_options.php:230
+msgid "First Button Label & Link"
+msgstr ""
+
+#: includes/simple-slider/simple_slider_options.php:236
+#: includes/simple-slider/simple_slider_options.php:258
+msgid "Button Link"
+msgstr ""
+
+#: includes/simple-slider/simple_slider_options.php:241
+#: includes/simple-slider/simple_slider_options.php:263
+msgid "Button Style"
+msgstr ""
+
+#: includes/simple-slider/simple_slider_options.php:252
+msgid ""
+"Second Button Label & Link (Leave Blank if you want to use only one button)"
+msgstr ""
+
+#: includes/simple-slider/simple_slider_options.php:272
+msgid "Overall Buttons Colors"
+msgstr ""
+
+#: includes/simple-slider/simple_slider_options.php:302
+msgid "Content custom absolute position"
+msgstr ""
+
+#: includes/simple-slider/simple_slider_options.php:303
+msgid "Add absolute positioning"
+msgstr ""
+
+#: includes/simple-slider/simple_slider_options.php:304
+msgid ""
+"In case you select vertical centered, top and bottom positions are fixed. "
+"The same for horizontal centered, left and right are fixed. Them are not "
+"considerated. If you want to use only absolute positions (Left, Right, Top, "
+"Bottom) select (Use only absolute position) "
+msgstr ""
+
+#: includes/simple-slider/simple_slider_options.php:316
+msgid "Content Width"
+msgstr ""
+
+#: includes/simple-slider/simple_slider_options.php:317
+msgid "Examples: auto, 100px, 50%"
+msgstr ""
+
+#: includes/simple-slider/simple_slider_options.php:324
+msgid "Remove Site Container from slider"
+msgstr ""
+
+#: includes/simple-slider/simple_slider_options.php:325
+msgid ""
+"By switching this you can remove the slider container and the content should "
+"be shown from the left to the right of the screen."
+msgstr ""
+
+#: includes/simple-slider/simple_slider_options.php:332
+msgid "Menu & Slider Navigation Color"
+msgstr ""
+
+#: includes/simple-slider/simple_slider_options.php:333
+msgid ""
+"Select Light for light colors in header, white logo and light slider nav"
+msgstr ""
+
+#: includes/simple-slider/simple_slider_options.php:348
+msgid "Simple Slide Options"
+msgstr ""
+
+#: includes/simple-slider/simple_slider_type.php:14
+msgid "Slides post type general name"
+msgstr ""
+
+#: includes/simple-slider/simple_slider_type.php:16
+msgid "Slides"
+msgstr ""
+
+#: includes/simple-slider/simple_slider_type.php:18
+msgid "Slide post type singular name"
+msgstr ""
+
+#: includes/simple-slider/simple_slider_type.php:20
+msgid "Simple Slider"
+msgstr ""
+
+#: includes/simple-slider/simple_slider_type.php:22
+msgid "Add New Slide slide"
+msgstr ""
+
+#: includes/simple-slider/simple_slider_type.php:24
+msgid "Add New Slide"
+msgstr ""
+
+#: includes/simple-slider/simple_slider_type.php:26
+msgid "Edit Slide"
+msgstr ""
+
+#: includes/simple-slider/simple_slider_type.php:28
+msgid "New Slide"
+msgstr ""
+
+#: includes/simple-slider/simple_slider_type.php:30
+msgid "View Slide"
+msgstr ""
+
+#: includes/simple-slider/simple_slider_type.php:32
+msgid "Search Slides"
+msgstr ""
+
+#: includes/simple-slider/simple_slider_type.php:34
+msgid "No Slides found"
+msgstr ""
+
+#: includes/simple-slider/simple_slider_type.php:36
+msgid "No Slides found in Trash"
+msgstr ""
+
+#: includes/simple-slider/simple_slider_type.php:78
+msgid "Sliders"
+msgstr ""
+
+#: includes/simple-slider/simple_slider_type.php:80
+msgid "Sliders taxonomy general name"
+msgstr ""
+
+#: includes/simple-slider/simple_slider_type.php:82
+msgid "Slider taxonomy singular name"
+msgstr ""
+
+#: includes/simple-slider/simple_slider_type.php:84
+msgid "All Sliders"
+msgstr ""
+
+#: includes/simple-slider/simple_slider_type.php:86
+msgid "Search Sliders"
+msgstr ""
+
+#: includes/simple-slider/simple_slider_type.php:88
+msgid "Parent Slider"
+msgstr ""
+
+#: includes/simple-slider/simple_slider_type.php:90
+msgid "Parent Slider:"
+msgstr ""
+
+#: includes/simple-slider/simple_slider_type.php:92
+msgid "Update Slider"
+msgstr ""
+
+#: includes/simple-slider/simple_slider_type.php:94
+msgid "Add New Slider"
+msgstr ""
+
+#: includes/simple-slider/simple_slider_type.php:96
+msgid "Edit Slider"
+msgstr ""
+
+#: includes/simple-slider/simple_slider_type.php:98
+msgid "New Slider Name"
+msgstr ""
+
+#: includes/view/blog/comments.php:13
+msgid "comments"
+msgstr ""
+
+#: includes/view/blog/comments.php:27
+msgid "Post a comment"
+msgstr ""
+
+#: includes/view/blog/loop-fullscreen.php:63
+#: includes/view/blog/loop-index.php:223
+#: includes/view/blog/loop-second-style.php:199
+#: includes/view/blog/loop-timeline.php:214
+#: includes/view/blog/single-fullscreen.php:75 vc_templates/latest_blog.php:152
+msgid "Read More"
+msgstr ""
+
+#: includes/view/blog/loop-grid.php:147 includes/view/blog/loop-grid.php:173
+#: includes/view/blog/loop-index.php:160 includes/view/blog/loop-index.php:188
+#: includes/view/blog/loop-second-style.php:148
+#: includes/view/blog/loop-second-style.php:174
+#: includes/view/blog/loop-timeline.php:157
+#: includes/view/blog/loop-timeline.php:187
+#: includes/view/blog/single-fullscreen.php:53 vc_templates/latest_blog.php:144
+#: vc_templates/recent_news.php:36
+msgid "Posted by"
+msgstr ""
+
+#: includes/view/blog/loop-index.php:166 includes/view/blog/loop-index.php:194
+#: includes/view/blog/loop-timeline.php:163
+#: includes/view/blog/loop-timeline.php:193
+msgid "In"
+msgstr ""
+
+#: includes/view/blog/loop-index.php:228
+msgid "TAGS"
+msgstr ""
+
+#: includes/view/blog/loop-index.php:249
+#: includes/view/blog/loop-second-style.php:225
+#: includes/view/blog/loop-timeline.php:240
+#: includes/view/blog/single-fullscreen.php:101
+msgid "Share: "
+msgstr ""
+
+#: includes/view/blog/loop-index.php:268
+msgid "Previous Post"
+msgstr ""
+
+#: includes/view/blog/loop-index.php:279
+msgid "Next Post"
+msgstr ""
+
+#: includes/view/blog/loop-second-style.php:204
+#: includes/view/blog/loop-timeline.php:219
+#: includes/view/blog/single-fullscreen.php:80
+msgid "Tags"
+msgstr ""
+
+#: includes/view/page_header.php:15 includes/view/page_header.php:68
+#: includes/view/page_header.php:109
+msgid "Search Results"
+msgstr ""
+
+#: includes/view/page_header.php:17
+msgid "404 Not Found"
+msgstr ""
+
+#: includes/view/page_header.php:62
+msgid "Blog"
+msgstr ""
+
+#: includes/view/page_header.php:64
+msgid "Home"
+msgstr ""
+
+#: includes/view/page_header.php:106
+msgid "Front Page"
+msgstr ""
+
+#: includes/view/portfolio/loop-grid-old.php:178
+#: includes/view/portfolio/loop-grid.php:240
+#: includes/view/portfolio/loop-masonry.php:165
+msgid "View"
+msgstr ""
+
+#: includes/view/portfolio/loop-grid.php:70 vc_templates/faq.php:31
+msgid "View All"
+msgstr ""
+
+#: includes/view/portfolio/single-container.php:17
+#: includes/view/portfolio/single-container.php:88
+#: includes/view/portfolio/single-container.php:158
+#: includes/view/portfolio/single-floating.php:14
+#: includes/view/portfolio/single-floating.php:49
+#: includes/view/portfolio/single-fullwidth.php:35
+#: includes/view/portfolio/single-gallery.php:22
+msgid "Project Description"
+msgstr ""
+
+#: includes/view/portfolio/single-container.php:21
+#: includes/view/portfolio/single-container.php:92
+#: includes/view/portfolio/single-container.php:162
+#: includes/view/portfolio/single-floating.php:18
+#: includes/view/portfolio/single-floating.php:53
+#: includes/view/portfolio/single-fullwidth.php:39
+#: includes/view/portfolio/single-gallery.php:26
+msgid "Project Details"
+msgstr ""
+
+#: includes/widgets/class-wp-twitter-api.php:135
+msgid "Can't get the bearer token, check your credentials"
+msgstr ""
+
+#: includes/widgets/class-wp-twitter-api.php:247
+msgid "Bearer Token is good, check your query"
+msgstr ""
+
+#: includes/widgets/simple_topnavwidget.php:40
+msgid "Mailing List"
+msgstr ""
+
+#: includes/widgets/simple_topnavwidget.php:52 searchform.php:4
+msgid "Search"
+msgstr ""
+
+#: includes/widgets/simple_topnavwidget.php:65
+msgid "Login"
+msgstr ""
+
+#: includes/widgets/simple_topnavwidget.php:103
+msgid "Select Language"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:386
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:388
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:392
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:1982
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2342
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2482
+msgid "unknown"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2603
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2608
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2614
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:3498
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:3501
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:3503
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:3509
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:3512
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:3520
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: vc_templates/vc_accordion_tab.php:40 vc_templates/vc_tab.php:8
+msgid "Empty section. Edit page to add content here."
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:27
+msgid "Cart Totals"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:32 woocommerce/cart/cart-totals.php:33
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:54 woocommerce/cart/cart-totals.php:55
+msgid "Shipping"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:70
+#, php-format
+msgid "estimated for %s"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:91 woocommerce/cart/cart-totals.php:92
+#: woocommerce/cart/cart.php:37 woocommerce/cart/cart.php:117
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:101
+msgid "Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:34 woocommerce/cart/cart.php:76
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:35 woocommerce/cart/cart.php:94
+msgid "Price"
+msgstr ""
+
+#: woocommerce/cart/cart.php:36 woocommerce/cart/cart.php:100
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:57
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/single-product/product-image.php:49
+msgid "Placeholder"
+msgstr ""
+
+#: woocommerce/single-product/related.php:50
+msgid "Related Products"
+msgstr ""
+
+#: woocommerce/single-product/tabs/additional-information.php:24
+msgid "Additional Information"
+msgstr ""
+
+#: woocommerce/single-product/tabs/description.php:24
+msgid "Product Description"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:34
+msgid "Reviews"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:55
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:68
+msgid "Add a review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:68
+#, php-format
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:69
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:73
+msgid "Name"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:75
+msgid "Email"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:78
+msgid "Submit"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:84
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:88
+msgid "Your Rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:89
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:90
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:91
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:92
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:93
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:94
+msgid "Very Poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:98
+msgid "Your Review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:107
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
